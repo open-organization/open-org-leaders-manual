@@ -1,0 +1,7 @@
+Copyright
+
+Copyright © 2016 Red Hat, Inc. All written content, as well as the cover image, licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+Colophon
+
+Typeset in DejaVu Serif and Overpass. Produced with LibreOffice. Cover design by Emma Eble.
