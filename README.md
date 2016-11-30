@@ -1,6 +1,6 @@
 # The Open Organization Leaders Manual
 
-This respository contains files related [_The Open Organization Leaders Manual_](https://opensource.com/open-organization/resources/leaders-manual), a community-produced companion to Jim Whitehurst's _The Open Organization_ (Harvard Business Review Press).
+This respository contains files related to [_The Open Organization Leaders Manual_](https://opensource.com/open-organization/resources/leaders-manual), a community-produced companion to Jim Whitehurst's _The Open Organization_ (Harvard Business Review Press).
 
 In this exciting new volume, the community forming around Whitehurst's insights shares advice for leaders wishing to alter their attitudes, changes their habits, and build the workplace of the future. _The Open Organization Leaders Manual_ is a handbook for anyone attempting to harness the power of openness to lead teams that are more transparent, agile, collaborative, and mission-driven.
 
