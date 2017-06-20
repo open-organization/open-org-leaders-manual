@@ -12,8 +12,8 @@ Licensed for sharing and modification under a Creative Commons license, the book
 
 In this repository, please find:
 
-- The book's cover (in .jpg and.pdf formats)
-- A "binary" copy of the book (in .pdf and .ePub formats)
+- The book's cover (in .jpg and .pdf formats)
+- A "binary" copy of the book (in .pdf format)
 - "Source code" for the book (in .odt format)
 
 Please contact open@opensource.com with comments, suggestions, and feedback.
