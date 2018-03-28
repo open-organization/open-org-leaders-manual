@@ -13,14 +13,14 @@
 (Potential topics include: using agile methods to make strategic plans, setting goals transparently and collaboratively, open approaches to project management)
 
 - Setting goals transparently and collaboratively—Michael Doyle
-- Helping people "own their careers" in an open organization—Allison Matlack
+- Helping people "own their careers" in an open organization—Allison Matlack & Laura Hilliger
 
 
 ## Part 2: Organizational Design and Culture Building
 (Potential topics include: constructing collaborative teams, cultivating honest and direct feedback, building an inclusive meritocracy, establishing trust, interacting with external communities, eliminating common barriers to collaboration, running open team and one-on-one meetings, assessing culture fit, building open leadership training programs)
 
 
-- Being a leade who understands the power of commuity—Alessio Fattorini
+- Being a leader who understands the power of community—Alessio Fattorini
 
 
 ## Part 3: Motivation and Engagement
