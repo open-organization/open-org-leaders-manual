@@ -6,12 +6,12 @@ As with other books in the series, this project invites contributions for open o
 
 ## Tentative Project Schedule
 
-Project announcement: April 5
-Chapter pitches due: April 24
-Table of contents released: May 17
-Chapter first drafts due: July 19
-Edited chapters returned: September 4
-Revised chapters due: November 4
-Book final typesetting: November 25
-Soft launch: December 1
+Project announcement: April 5  
+Chapter pitches due: April 24  
+Table of contents released: May 17  
+Chapter first drafts due: July 19  
+Edited chapters returned: September 4  
+Revised chapters due: November 4  
+Book final typesetting: November 25  
+Soft launch: December 1  
 Official launch: December 8
