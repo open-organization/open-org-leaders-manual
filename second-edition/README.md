@@ -13,5 +13,5 @@ Chapter first drafts due: July 19
 Edited chapters returned: September 04  
 Revised chapters due: November 04  
 Book final typesetting: November 25  
-Soft launch: December 01  
-Official launch: December 08
+Soft launch: December 03  
+Official launch: December 10
