@@ -3,7 +3,7 @@
 ## Introductory Material
 (Potential topics include: relavant cultural and economic context for open leadership, necessity and benefits of open leadership, characteristics of open leadership)
 
-- Introduction to the second edition—
+- Introduction to the second edition—TBD
 - Introduction to the first edition—Dr. Philip Foster (Maximum Change)
 
 ## Part 1: Planning and Goal-Setting
@@ -18,6 +18,7 @@
 
 - Being a leader who understands the power of community—Alessio Fattorini (Nethesis)
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
+- Transformation beyond the digital—Jen Kelchner (LDR21)
 
 ## Part 3: Motivation and Engagement
 (Potential topics include: delegating responsibility effectively, cultivating mission and purpose, rewarding intrinsic motivations, owning and driving an open leadership career, employee-centered workplaces)
