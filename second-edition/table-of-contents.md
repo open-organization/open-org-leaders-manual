@@ -23,6 +23,7 @@
 ## Part 3: Motivation and Engagement
 (Potential topics include: delegating responsibility effectively, cultivating mission and purpose, rewarding intrinsic motivations, owning and driving an open leadership career, employee-centered workplaces)
 
+- Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
 - The tao of project management—Allison Matlack (Red Hat)
 - Learning the art of delegation—Sam Knuth (Red Hat)
 
