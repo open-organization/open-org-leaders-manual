@@ -26,6 +26,7 @@
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
 - The tao of project management—Allison Matlack (Red Hat)
 - Learning the art of delegation—Sam Knuth (Red Hat)
+- Open leadership lessons from unlikely places—Jim Hall (FreeDOS)
 
 ## Back Matter
 
