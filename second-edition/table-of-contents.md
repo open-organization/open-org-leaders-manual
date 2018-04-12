@@ -19,6 +19,8 @@
 - Being a leader who understands the power of community—Alessio Fattorini (Nethesis)
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
 - Transformation beyond the digital—Jen Kelchner (LDR21)
+- An open approach to leading meetings—Angela Robertson (Microsoft)
+- What it means to be an open leader—Jim Whitehurst (Red Hat)
 
 ## Part 3: Motivation and Engagement
 (Potential topics include: delegating responsibility effectively, cultivating mission and purpose, rewarding intrinsic motivations, owning and driving an open leadership career, employee-centered workplaces)
