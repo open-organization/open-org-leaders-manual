@@ -3,7 +3,9 @@
 ## Introductory Material
 (Potential topics include: relavant cultural and economic context for open leadership, necessity and benefits of open leadership, characteristics of open leadership)
 
-- Introduction to the second edition—TBD
+- Preface to the second edition—Bryan Behrenshausen (Red Hat)
+- Preface to the first edition—Bryan Behrenshausen (Red Hat)
+- Introduction to the second edition—Jen Kelchner (LDR21)
 - Introduction to the first edition—Dr. Philip Foster (Maximum Change)
 
 ## Part 1: Planning and Goal-Setting
@@ -22,6 +24,7 @@
 - Transformation beyond the digital—Jen Kelchner (LDR21)
 - An open leaders guide to better meetings—Angela Robertson (Microsoft)
 - What it means to be an open leader—Jim Whitehurst (Red Hat)
+- Assessing culture fit—Jen Kelchner (LDR21) & Jen Kelchner (LDR21)
 - Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
 
 ## Part 3: Motivation and Engagement
@@ -29,6 +32,7 @@
 
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
 - The tao of project management—Allison Matlack (Red Hat)
+- The role of trust in meeting engagement—MaryJo Burchard (LDR21)
 - Learning the art of delegation—Sam Knuth (Red Hat)
 - Open leadership lessons from unlikely places—Jim Hall (FreeDOS)
 
