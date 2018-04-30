@@ -24,13 +24,14 @@
 - Transformation beyond the digital—Jen Kelchner (LDR21)
 - An open leaders guide to better meetings—Angela Robertson (Microsoft)
 - What it means to be an open leader—Jim Whitehurst (Red Hat)
-- Assessing culture fit—Jen Kelchner (LDR21) & Jen Kelchner (LDR21)
+- Assessing culture fit—Jen Kelchner (LDR21) & MaryJo Burchard (LDR21)
 - Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
 
 ## Part 3: Motivation and Engagement
 (Potential topics include: delegating responsibility effectively, cultivating mission and purpose, rewarding intrinsic motivations, owning and driving an open leadership career, employee-centered workplaces)
 
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
+- When empowering employee decision-making, intent is everything—Ron McFarland
 - The tao of project management—Allison Matlack (Red Hat)
 - The role of trust in meeting engagement—MaryJo Burchard (LDR21)
 - Learning the art of delegation—Sam Knuth (Red Hat)
