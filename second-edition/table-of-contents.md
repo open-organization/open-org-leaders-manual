@@ -12,8 +12,10 @@
 (Potential topics include: using agile methods to make strategic plans, setting goals transparently and collaboratively, open approaches to project management)
 
 - Setting goals transparently and collaboratively—Michael Doyle (Red Hat)
+- Rethinking our approach to failure when setting goals—Catherine Louis—Catherine Louis (CLL Group)
 - Make your plans and progress open by visualizing them—Jimmy Sjölund (Telia Co.)
 - "Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)
+- Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)
 - Managing according to the Open Decision Framework—Allison Matlack (Red Hat)
 
 ## Part 2: Organizational Design and Culture Building
