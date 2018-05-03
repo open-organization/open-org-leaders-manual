@@ -16,12 +16,14 @@
 - Make your plans and progress open by visualizing them—Jimmy Sjölund (Telia Co.)
 - "Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)
 - Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)
+- Setting goals with short-term planning cycles—Sam Knuth (Red Hat)
 - Managing according to the Open Decision Framework—Allison Matlack (Red Hat)
 
 ## Part 2: Organizational Design and Culture Building
 (Potential topics include: constructing collaborative teams, cultivating honest and direct feedback, building an inclusive meritocracy, establishing trust, interacting with external communities, eliminating common barriers to collaboration, running open team and one-on-one meetings, assessing culture fit, building open leadership training programs)
 
 - Being a leader who understands the power of community—Alessio Fattorini (Nethesis)
+- An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
 - Transformation beyond the digital—Jen Kelchner (LDR21)
 - An open leaders guide to better meetings—Angela Robertson (Microsoft)
