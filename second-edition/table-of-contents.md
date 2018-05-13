@@ -1,7 +1,6 @@
 # Working Tables of Contents
 
 ## Introductory Material
-(Potential topics include: relavant cultural and economic context for open leadership, necessity and benefits of open leadership, characteristics of open leadership)
 
 - Preface to the second edition—Bryan Behrenshausen (Red Hat)
 - Preface to the first edition—Bryan Behrenshausen (Red Hat)
@@ -9,7 +8,6 @@
 - Introduction to the first edition—Dr. Philip Foster (Maximum Change)
 
 ## Part 1: Planning and Goal-Setting
-(Potential topics include: using agile methods to make strategic plans, setting goals transparently and collaboratively, open approaches to project management)
 
 - Setting goals transparently and collaboratively—Michael Doyle (Red Hat)
 - Rethinking our approach to failure when setting goals—Catherine Louis—Catherine Louis (CLL Group)
@@ -20,7 +18,6 @@
 - Managing according to the Open Decision Framework—Allison Matlack (Red Hat)
 
 ## Part 2: Organizational Design and Culture Building
-(Potential topics include: constructing collaborative teams, cultivating honest and direct feedback, building an inclusive meritocracy, establishing trust, interacting with external communities, eliminating common barriers to collaboration, running open team and one-on-one meetings, assessing culture fit, building open leadership training programs)
 
 - Being a leader who understands the power of community—Alessio Fattorini (Nethesis)
 - An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
@@ -30,9 +27,9 @@
 - What it means to be an open leader—Jim Whitehurst (Red Hat)
 - Assessing culture fit—Jen Kelchner (LDR21) & MaryJo Burchard (LDR21)
 - Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
+- Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)
 
 ## Part 3: Motivation and Engagement
-(Potential topics include: delegating responsibility effectively, cultivating mission and purpose, rewarding intrinsic motivations, owning and driving an open leadership career, employee-centered workplaces)
 
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
 - When empowering employee decision-making, intent is everything—Ron McFarland
