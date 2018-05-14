@@ -6,9 +6,9 @@ As with other books in the series, this project invites contributions for open o
 
 ## Tentative Project Schedule
 
-Project announcement: April 10  
-Chapter pitches due: May 01  
-Table of contents released: May 15  
+~~Project announcement: April 10~~  
+~~Chapter pitches due: May 01~~  
+~~Table of contents released: May 15~~  
 Chapter first drafts due: July 19  
 Edited chapters returned: September 04  
 Revised chapters due: November 04  
