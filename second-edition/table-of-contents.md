@@ -1,5 +1,7 @@
 # Working Tables of Contents
 
+(Chapters marked _in italics_ have been typeset in the book's galley proofs.)
+
 ## Introductory Material
 
 - Preface to the second edition—Bryan Behrenshausen (Red Hat)
