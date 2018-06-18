@@ -1,6 +1,6 @@
 # Working Tables of Contents
 
-(Chapters marked _in italics_ have been typeset in the book's galley proofs.)
+(Chapters marked _in italics_ have been typeset in the [book's galley proofs](https://github.com/open-organization-ambassadors/open-org-leaders-manual/tree/master/second-edition).)
 
 ## Introductory Material
 
@@ -15,7 +15,7 @@
 - Rethinking our approach to failure when setting goals—Catherine Louis—Catherine Louis (CLL Group)
 - Make your plans and progress open by visualizing them—Jimmy Sjölund (Telia Co.)
 - "Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)
-- Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)
+- _Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)_
 - Setting goals with short-term planning cycles—Sam Knuth (Red Hat)
 - Managing according to the Open Decision Framework—Allison Matlack (Red Hat)
 
@@ -35,7 +35,7 @@
 
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
 - When empowering employee decision-making, intent is everything—Ron McFarland
-- The tao of project management—Allison Matlack (Red Hat)
+- _The tao of project management—Allison Matlack (Red Hat)_
 - The power of "thank you"—Curt Carver (Unviersity of Alamaba, Birmingham)
 - The role of trust in meeting engagement—MaryJo Burchard (LDR21)
 - Learning the art of delegation—Sam Knuth (Red Hat)
