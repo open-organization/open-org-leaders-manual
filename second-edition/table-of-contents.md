@@ -34,7 +34,7 @@
 ## Part 3: Motivation and Engagement
 
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
-- When empowering employee decision-making, intent is everything—Ron McFarland
+- _When empowering employee decision-making, intent is everything—Ron McFarland_
 - _The tao of project management—Allison Matlack (Red Hat)_
 - The power of "thank you"—Curt Carver (Unviersity of Alamaba, Birmingham)
 - The role of trust in meeting engagement—MaryJo Burchard (LDR21)
