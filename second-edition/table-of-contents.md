@@ -5,9 +5,9 @@
 ## Introductory Material
 
 - Preface to the second edition—Bryan Behrenshausen (Red Hat)
-- Preface to the first edition—Bryan Behrenshausen (Red Hat)
+- _Preface to the first edition—Bryan Behrenshausen (Red Hat)_
 - Introduction to the second edition—Jen Kelchner (LDR21)
-- Introduction to the first edition—Dr. Philip Foster (Maximum Change)
+- _Introduction to the first edition—Dr. Philip Foster (Maximum Change)_
 
 ## Part 1: Planning and Goal-Setting
 
