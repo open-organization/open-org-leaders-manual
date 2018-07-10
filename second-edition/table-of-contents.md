@@ -17,7 +17,6 @@
 - "Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)
 - _Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)_
 - Setting goals with short-term planning cycles—Sam Knuth (Red Hat)
-- Managing according to the Open Decision Framework—Allison Matlack (Red Hat)
 
 ## Part 2: Organizational Design and Culture Building
 
