@@ -11,7 +11,7 @@
 ## Part 1: Planning and Goal-Setting
 
 - Setting goals transparently and collaboratively—Michael Doyle (Red Hat)
-- Rethinking our approach to failure when setting goals—Catherine Louis—Catherine Louis (CLL Group)
+- Creating teams that aren't afraid to fail—Catherine Louis—Catherine Louis (CLL Group)
 - Make your plans and progress open by visualizing them—Jimmy Sjölund (Telia Co.)
 - "Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)
 - _Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)_
