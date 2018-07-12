@@ -5,7 +5,6 @@
 ## Introductory Material
 
 - Preface to the second edition—Bryan Behrenshausen (Red Hat)
-- _Preface to the first edition—Bryan Behrenshausen (Red Hat)_
 - Introduction to the second edition—Jen Kelchner (LDR21)
 - _Introduction to the first edition—Dr. Philip Foster (Maximum Change)_
 
@@ -25,7 +24,7 @@
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
 - Transformation beyond the digital—Jen Kelchner (LDR21)
 - An open leaders guide to better meetings—Angela Robertson (Microsoft)
-- What it means to be an open leader—Jim Whitehurst (Red Hat)
+- _What it means to be an open leader—Jim Whitehurst (Red Hat)_
 - Assessing culture fit—Jen Kelchner (LDR21) & MaryJo Burchard (LDR21)
 - Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
 - Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)
