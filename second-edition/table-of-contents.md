@@ -34,7 +34,7 @@
 - Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
 - _When empowering employee decision-making, intent is everything—Ron McFarland_
 - _The tao of project management—Allison Matlack (Red Hat)_
-- The power of "thank you"—Curt Carver (Unviersity of Alamaba, Birmingham)
+- _Leading through the power of "thank you"—Curtis A. Carver (Unviersity of Alamaba, Birmingham)_
 - The role of trust in meeting engagement—MaryJo Burchard (LDR21)
 - Learning the art of delegation—Sam Knuth (Red Hat)
 - Open leadership lessons from unlikely places—Jim Hall (FreeDOS)
