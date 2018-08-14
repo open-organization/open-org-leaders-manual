@@ -23,9 +23,9 @@
 - An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
 - Transformation beyond the digital—Jen Kelchner (LDR21)
-- An open leaders guide to better meetings—Angela Robertson (Microsoft)
+- An open leader's guide to better meetings—Angela Robertson (Microsoft)
 - _What it means to be an open leader—Jim Whitehurst (Red Hat)_
-- Assessing culture fit—Jen Kelchner (LDR21) & MaryJo Burchard (LDR21)
+- Assessing culture fit—Jen Kelchner (LDR21)
 - Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
 - Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)
 
@@ -35,7 +35,7 @@
 - _When empowering employee decision-making, intent is everything—Ron McFarland_
 - _The tao of project management—Allison Matlack (Red Hat)_
 - _Leading through the power of "thank you"—Curtis A. Carver (Unviersity of Alamaba, Birmingham)_
-- The role of trust in meeting engagement—MaryJo Burchard (LDR21)
+- The role of trust in engagement at meetings—MaryJo Burchard (Concord Solutions)
 - Learning the art of delegation—Sam Knuth (Red Hat)
 - Open leadership lessons from unlikely places—Jim Hall (FreeDOS)
 
