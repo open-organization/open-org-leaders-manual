@@ -19,7 +19,7 @@
 
 ## Part 2: Organizational Design and Culture Building
 
-- Being a leader who understands the power of community—Alessio Fattorini (Nethesis)
+- _Innovation through community—Alessio Fattorini (Nethesis)_
 - An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
 - Transformation beyond the digital—Jen Kelchner (LDR21)
