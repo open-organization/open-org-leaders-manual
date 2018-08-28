@@ -31,7 +31,7 @@
 
 ## Part 3: Motivation and Engagement
 
-- Let engagement lead the way—Chad Sansing, Sarah Allen, and Stephanie Wright (Mozilla Foundation)
+- _Let engagement lead the way—Chad Sansing (Mozilla Foundation)_
 - _When empowering employee decision-making, intent is everything—Ron McFarland_
 - _The tao of project management—Allison Matlack (Red Hat)_
 - _Leading through the power of "thank you"—Curtis A. Carver (Unviersity of Alamaba, Birmingham)_
