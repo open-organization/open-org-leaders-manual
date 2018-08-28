@@ -35,8 +35,7 @@
 - _When empowering employee decision-making, intent is everything—Ron McFarland_
 - _The tao of project management—Allison Matlack (Red Hat)_
 - _Leading through the power of "thank you"—Curtis A. Carver (Unviersity of Alamaba, Birmingham)_
-- The role of trust in engagement at meetings—MaryJo Burchard (Concord Solutions)
-- Learning the art of delegation—Sam Knuth (Red Hat)
+- _More engaging meetings begin with trustful relationships—MaryJo Burchard (Concord Solutions)_
 - Open leadership lessons from unlikely places—Jim Hall (FreeDOS)
 
 ## Back Matter
