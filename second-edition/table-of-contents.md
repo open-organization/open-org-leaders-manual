@@ -22,8 +22,8 @@
 - _Innovation through community—Alessio Fattorini (Nethesis)_
 - An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
 - Four stages of open leadership—DeLisa Alexander (Red Hat)
-- Transformation beyond the digital—Jen Kelchner (LDR21)
 - _An open leader's guide to better meetings—Angela Robertson (Microsoft)_
+- _Transformation beyond the digital—Jen Kelchner (LDR21)_
 - _What it means to be an open leader—Jim Whitehurst (Red Hat)_
 - Assessing culture fit—Jen Kelchner (LDR21)
 - Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
