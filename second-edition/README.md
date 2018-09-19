@@ -10,7 +10,7 @@ As with other books in the series, this project invites contributions for open o
 ~~Chapter pitches due: May 01~~  
 ~~Table of contents released: May 15~~  
 ~~Chapter first drafts due: July 19~~  
-Edited chapters returned: September 04  
+~~Edited chapters returned: September 04~~  
 Revised chapters due: November 04  
 Book final typesetting: November 25  
 Soft launch: December 03  
