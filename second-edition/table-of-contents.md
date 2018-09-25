@@ -13,7 +13,7 @@
 - _Creating teams that aren't afraid to fail—Catherine Louis (CLL Group)_
 - _Setting goals transparently and collaboratively—Michael Doyle_
 - Make your plans and progress open by visualizing them—Jimmy Sjölund (Telia Co.)
-- "Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)
+- _"Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)_
 - _Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)_
 - Setting goals with short-term planning cycles—Sam Knuth (Red Hat)
 
