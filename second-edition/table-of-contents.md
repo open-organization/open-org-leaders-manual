@@ -19,9 +19,9 @@
 
 ## Part 2: Organizational Design and Culture Building
 
+- _When open values drive open behaviors: Defining open leadership—DeLisa Alexander (Red Hat)_
 - _Innovation through community—Alessio Fattorini (Nethesis)_
 - An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
-- Four stages of open leadership—DeLisa Alexander (Red Hat)
 - _An open leader's guide to better meetings—Angela Robertson (Microsoft)_
 - _Transformation beyond the digital—Jen Kelchner (LDR21)_
 - _What it means to be an open leader—Jim Whitehurst (Red Hat)_
