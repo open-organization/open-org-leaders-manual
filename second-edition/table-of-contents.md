@@ -21,12 +21,12 @@
 
 - _When open values drive open behaviors: Defining open leadership—DeLisa Alexander (Red Hat)_
 - _Innovation through community—Alessio Fattorini (Nethesis)_
-- An open leader's guide to understanding workplace creativity—Heidi Hess von Ludewig (Red Hat)
+- _Creativity is risky (and other truths open leaders need to hear)—Heidi Hess von Ludewig (Red Hat)_
 - _An open leader's guide to better meetings—Angela Robertson (Microsoft)_
 - _Transformation beyond the digital—Jen Kelchner (LDR21)_
 - _What it means to be an open leader—Jim Whitehurst (Red Hat)_
 - _Stop hiring for culture fit—Jen Kelchner (LDR21)_
-- Creativity is risky (and other truths open leaders need to hear)—Heidi Hess von Ludewig (Red Hat)
+- _Achieving innovation one small project at a time—Heidi Hess von Ludewig (Red Hat)_
 - Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)
 
 ## Part 3: Motivation and Engagement
