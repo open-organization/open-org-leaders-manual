@@ -26,7 +26,7 @@
 - _Transformation beyond the digital—Jen Kelchner (LDR21)_
 - _What it means to be an open leader—Jim Whitehurst (Red Hat)_
 - _Stop hiring for culture fit—Jen Kelchner (LDR21)_
-- Building open culture, one small project at a time—Heidi Hess von Ludewig (Red Hat)
+- Creativity is risky (and other truths open leaders need to hear)—Heidi Hess von Ludewig (Red Hat)
 - Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)
 
 ## Part 3: Motivation and Engagement
