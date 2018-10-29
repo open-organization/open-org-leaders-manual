@@ -26,8 +26,8 @@
 - _Transformation beyond the digital—Jen Kelchner (LDR21)_
 - _What it means to be an open leader—Jim Whitehurst (Red Hat)_
 - _Stop hiring for culture fit—Jen Kelchner (LDR21)_
-- _Achieving innovation one small project at a time—Heidi Hess von Ludewig (Red Hat)_
-- Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)
+- Achieving innovation one small project at a time—Heidi Hess von Ludewig (Red Hat)
+- _Becoming a leader with "inclusive awareness"—Irupé Niveyro (I+D Integración y Desarrollo)_
 
 ## Part 3: Motivation and Engagement
 
@@ -36,7 +36,7 @@
 - _The tao of project management—Allison Matlack (Red Hat)_
 - _Leading through the power of "thank you"—Curtis A. Carver (Unviersity of Alamaba, Birmingham)_
 - _More engaging meetings begin with trustful relationships—MaryJo Burchard (Concord Solutions)_
-- Open leadership lessons from unlikely places—Jim Hall (FreeDOS)
+- _Open leadership lessons from a galaxy far, far away—Jim Hall (FreeDOS)_
 
 ## Back Matter
 
