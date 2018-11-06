@@ -15,7 +15,7 @@
 - _Visualizing your plans and progress—Jimmy Sjölund (Telia Co.)_
 - _"Owning your career" in an open organization—Laura Hilliger (We Are Open Co-Op) & Allison Matlack (Red Hat)_
 - _Cultivating an attitude of experimentation on your team—Catherine Louis (CLL Group)_
-- Setting goals with short-term planning cycles—Sam Knuth (Red Hat)
+- _Planning for the future isn't what it used to be—Sam Knuth (Red Hat)_
 
 ## Part 2: Organizational Design and Culture Building
 
