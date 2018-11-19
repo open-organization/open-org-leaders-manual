@@ -12,6 +12,6 @@ As with other books in the series, this project invites contributions for open o
 ~~Chapter first drafts due: July 19~~  
 ~~Edited chapters returned: September 04~~  
 ~~Revised chapters due: November 02~~  
-Book final typesetting: November 19  
+~~Book final typesetting: November 19~~  
 Soft launch: December 03  
 Official launch: December 10
