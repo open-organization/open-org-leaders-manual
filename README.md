@@ -10,7 +10,7 @@ In _The Open Organization Leaders Manual_, a community of open-minded writers, c
 
 In this repository, please find:
 
-- The book's cover (in .jpg and .pdf formats) **(coming soon)**
+- The book's cover (in .jpg format)
 - A "binary" copy of the book (in .pdf format)
 - "Source code" for the book (in .odt format)
 
