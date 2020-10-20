@@ -12,5 +12,5 @@ In this repository, please find:
 
 - The book's cover (in .jpg format)
 - A paginated version copy of the book (in .pdf format)
-- A reflowable version the book (in .epub format)
-- "Source code" for the book (in .odt format)
+- A reflowable version of the book (in .epub format)
+- An editable version of the book (in .odt format)
