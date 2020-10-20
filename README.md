@@ -11,8 +11,6 @@ In _The Open Organization Leaders Manual_, a community of open-minded writers, c
 In this repository, please find:
 
 - The book's cover (in .jpg format)
-- A "binary" copy of the book (in .pdf format)
+- A paginated version copy of the book (in .pdf format)
+- A reflowable version the book (in .epub format)
 - "Source code" for the book (in .odt format)
-- An e-book copy of the book (in .epub format) for reading on an e-reader, tablet, or other compatible device.
-
-Please contact open@opensource.com with comments, suggestions, and feedback.
