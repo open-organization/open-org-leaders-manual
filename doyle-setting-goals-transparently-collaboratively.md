@@ -101,7 +101,7 @@ Transparent and collaborative goal setting is not a one time activity.
 
 Just as glass needs regular cleaning to avoid becoming opaque, your goals and collaboration with stakeholders need regular review. Keeping stakeholders informed about progress in achieving your goals is as important as informing them about the goal setting process in the first place. Your biggest obstacle to achieving this is your willingness to create the time and space for it to happen. There are two ways to get around this problem, and you can use them both:
 
-1. **Go **guerrilla.** As circumstances change with the passage of time and people move in, out, and around the organization use these moments as opportunities to reconnect with your stakeholders to update them on progress, celebrate successes, and solicit feedback.
+1. **Go guerrilla.** As circumstances change with the passage of time and people move in, out, and around the organization use these moments as opportunities to reconnect with your stakeholders to update them on progress, celebrate successes, and solicit feedback.
 2. **Get programmatic.** Dedicate a segment of your regular All-hands meeting to reconnect your team and stakeholders to your goals, progress, and remind them how their roles connect to the company's vision.
 
 Meetings and events are ephemeral, so make sure you generate artifacts from them that others can consume asynchronously. Slide decks, video recordings, podcasts, and blogs are all good examples of content you can extract from a meeting and make available for others to consume when they have the time. Creating and promoting these artifacts are the perfect tasks for anyone in your team looking to develop their communication skills.
