@@ -5,9 +5,11 @@ Bryan Behrenshausen is a community architect in the Open Source Program Office a
 
 MaryJo Burchard (Concord Solutions) helps leaders in nonprofits, education, business, and public sector develop open behaviors and interactions to measurably raise the bar of humane engagement in the workplace. She has a PhD in Organizational Leadership from Regent University and conducts training and internal organizational development consulting for the City of Virginia Beach, where she lives with her husband Kenny, their son Victor, and their chihuahua-pug, Stanley.
 
-Curtis A. Carver Jr., Ph.D. is the Vice President and Chief Information Officer for the University of Alabama at Birmingham. Previously, he was the vice chancellor and chief information officer for the Board of Regents of University System of Georgia.
+Curtis A. Carver Jr., Ph.D., is the Vice President and Chief Information Officer for the University of Alabama at Birmingham. Previously, he was the vice chancellor and chief information officer for the Board of Regents of University System of Georgia.
 
 Michael Doyle supports growth in others through executive coaching and leadership development—inspiring them to turn knowledge into action one step at a time by openly sharing his development journey.
+
+Alessio Fattorini is a certified community strategist focused on product-based communities. He works closely with developers and users leveraging his strong technical background as Linux sysadmin and support specialist. For more than 10 years, he has been Communications and Community Manager at Nethesis.
 
 Dr. Philip A. Foster is the author of The Open Organization: A New Era of Leadership and Organizational Development. He is a business consultant, international speaker, and the host of Maximum Change TV.
 
@@ -28,6 +30,10 @@ Catherine Louis is a Certified Scrum Trainer, independent Agile coach, founder o
 Allison Matlack is a Returned Peace Corps Volunteer turned Principal Product Communications Strategist at Red Hat who is known for her enthusiastic speaking style and passion for helping leaders inspire their teams. She's an experienced Agile practitioner and coach of software engineering teams in various stages of maturity, as well as a communications specialist with a change-management style steeped in the tradition of the Open Decision Framework.
 
 Ron McFarland has been working in Japan for 40 years, and he's spent more than 30 of them in international sales, sales management training, and expanding sales worldwide. He's worked in or been to more than 80 countries. Over the past 14 years, Ron has established distributors in the United States and throughout Europe for a Tokyo-headquartered, Japanese hardware cutting tool manufacturer.
+
+Irupé Niveyro enjoys helping others tune into their purposes and develop them. After a successful 20 years in IT and consulting, she transformed her mediation and negotiation skills into a facilitating and development firm, I+D, which helps organizations and teams achieve their results in an effective and harmonious manner.
+
+Angela Robertson leads and manages the development and publication of technical guidance for many of the Microsoft Azure products and technologies. A member of the Azure Platform Experiences and Evangelism team, she works with cloud advocates, the team that develops docs.microsoft.com, and product groups throughout the company to publish content on our open platform.
 
 Chad Sansing is the Practice Lead for Open Culture and Curriculum at the Mozilla foundation and has been helping to develop his team's Mountain of Engagement since early 2018. Prior to working on the Open Leadership and Events team, he developed Web Literacy curriculum for the foundation. He joined Mozilla after teaching middle school English, social studies, and technology for 14 years. He is passionate about internet health, facilitation, games, and helping non-technical audiences understand the advantages of working open and practicing open leadership, especially in libraries, schools, and other community learning spaces.
 
