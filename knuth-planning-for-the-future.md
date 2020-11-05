@@ -47,7 +47,7 @@ Questions like these can help you understand, or tease out, the purpose behind t
 
 ### 3. "Constant change" doesn't mean "total chaos"
 
-At the heart of "try, learn, modify" is a state of constant change.[27] We all know change is hard. We experience it personally and we see it every day in our work and lives. This basic human truth substantially complicates the reality we face: having to continuously adjust our work to suit the changing environment.
+At the heart of "try, learn, modify" is [a state of constant change](https://opensource.com/open-organization/18/10/open-leader-creativity-guide). We all know change is hard. We experience it personally and we see it every day in our work and lives. This basic human truth substantially complicates the reality we face: having to continuously adjust our work to suit the changing environment.
 
 Even people who embrace "agile" can have hard a time with change. We have a reflex to resist it, question it, avoid it, and fear it. It makes us uncomfortable and insecure. Even people who purport to love and embrace change can have a hard time with it.
 
