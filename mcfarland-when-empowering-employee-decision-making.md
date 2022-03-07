@@ -43,4 +43,3 @@ Whether you're putting together peers at a formal business meeting, at an offici
 4. Selecting members with the willingness to be accountable for whatever is decided
 
 This is how to catalyze front-line engagement—by staying involved in decision-making, not by skirting it.
-
