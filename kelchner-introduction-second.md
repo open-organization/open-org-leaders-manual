@@ -1,7 +1,7 @@
 ## Introduction to the second edition
 Jen Kelchner
 
-Disruption is "existential," notes [an article from professional service provider Wolters Kluwer](https://wolterskluwer.com/company/newsroom/news/2018/10/lessons-in-leading-digital-disruption.html). It's not just an organizational design issue. It cuts straight to the core of *who* we are, *how* we see ourselves, and *what* we contribute to our environments. Today, the furious pace of disruption is forcing executives to make existential decisions and commit to them much faster than they've anticipated.
+Disruption is "existential," notes an article from professional service provider Wolters Kluwer.[^disruption-existential] It's not just an organizational design issue. It cuts straight to the core of *who* we are, *how* we see ourselves, and *what* we contribute to our environments. Today, the furious pace of disruption is forcing executives to make existential decisions and commit to them much faster than they've anticipated.
 
 One source of that disruption is digitization. Digitization is reshaping the way we lead, manage, and work. Even in the scope of the last decade, we've seen rapid adjustments to how we live, connect, and receive services. While we've been discussing *ad nauseum* how (or whether) we should be redefining organizational cultures and business models, the clock has been ticking, and the pace of digitization has not been slowing. In his book *The Digital Matrix: New Rules for Business Transformation Through Technology*, author Venkat Venkatraman argues that, by 2025, differences between digital and non-digital functions, processes, and business models will no longer exist.
 
@@ -33,3 +33,4 @@ As you continue learning about open leadership—and, ultimately, *open culture*
 
 December 2018
 
+[^disruption-existential]: https://wolterskluwer.com/company/newsroom/news/2018/10/lessons-in-leading-digital-disruption.html
