@@ -134,4 +134,3 @@ Ultimately, this approach proved ineffective and unsustainable.
 Only after I discovered who I really am as a leader, what my talents are, and how I can be authentic was I able to take back control and focus on adding value to an organization.
 
 And believe me, it meant having to break many patterns and really confronting myself in order to get there. But the transformation is possible. And I wish the same for you.
-
