@@ -41,7 +41,7 @@ If culture eats strategy for breakfast, then execution is setting the table and 
 
 ### Approaching transparent and collaborative goal setting
 
-[The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework) provides a useful process for setting goals transparently and collaboratively. Applying it to goal setting means identifying people that will be impacted by your goals or those who could help you make them better. Invite these people to hear you articulate your goals, and allow them to share their feedback on those goals with you. At the heart of the Open Decision Framework is constant communication: The framework guides you on what things to consider communicating, who to communicate them to, and when to communicate them.
+The Open Decision Framework provides a useful process for setting goals transparently and collaboratively.[^open-decision-framework] Applying it to goal setting means identifying people that will be impacted by your goals or those who could help you make them better. Invite these people to hear you articulate your goals, and allow them to share their feedback on those goals with you. At the heart of the Open Decision Framework is constant communication: The framework guides you on what things to consider communicating, who to communicate them to, and when to communicate them.
 
 Whatever goal setting methodology you choose (be it SMART, OKRs, or something else), approach the process as its *own project* in a transparent and collaborative way. In other words, treat *the goal setting process* as its own project, just like you would the *work toward the goals themselves*.
 
@@ -108,3 +108,4 @@ Meetings and events are ephemeral, so make sure you generate artifacts from them
 
 Ongoing communication is the key to being an open organization. By communicating regularly you are establishing a habit that builds an open culture: "Setting goals transparently and collaboratively? Oh that's just how we do it here."
 
+[^open-decision-framework]: https://opensource.com/open-organization/resources/open-decision-framework
