@@ -91,9 +91,9 @@ You should be aware that someone's first experience of and in the community is c
 
 Receiving a response after a few days is a bad welcome for newcomers.
 
-In my community, for example, I create [a welcoming post](https://community.nethserver.org/t/weekly-welcome-to-new-members-25-jul-16/3999), in which I offer my warm welcome to the new people and ask them to feel safe and to introduce themselves: What are you working on? Why are you here? You would be amazed at how these simple sentences unleash positive behaviors from newcomers. You show not only that you've have noticed they're here, but also that you care about them, their lives, and their aims. Suddenly, they feel at home and compelled to participate, if only to give back and thank you for the attention.
+In my community, for example, I create a welcoming post, in which I offer my warm welcome to the new people and ask them to feel safe and to introduce themselves: What are you working on? Why are you here? You would be amazed at how these simple sentences unleash positive behaviors from newcomers.[^welcoming-post] You show not only that you've have noticed they're here, but also that you care about them, their lives, and their aims. Suddenly, they feel at home and compelled to participate, if only to give back and thank you for the attention.
 
-You can't set the proper cultural tone alone. Creating [an ambassador group](https://community.nethserver.org/t/nethserver-ambassadors-group/4782) might help. This group [should be the community's engine](https://community.nethserver.org/t/thoughts-about-nethserver-mission-vision-and-values/4080), a group that's able to set a high bar, nurture a culture, and share your community vision, mission, and values. Our Ambassadors have a set of social norms and rules that they undertake to respect: lead by example, be humble, be inclusive, be full of gratitude, show your passion, be playful.
+You can't set the proper cultural tone alone. Creating an ambassador group might help.[^ambassador-group] This group should be the community's engine, a group that's able to set a high bar, nurture a culture, and share your community vision, mission, and values.[^community-engine] Our Ambassadors have a set of social norms and rules that they undertake to respect: lead by example, be humble, be inclusive, be full of gratitude, show your passion, be playful.
 
 The don't just live those rules; they live them every single day.
 
@@ -103,7 +103,7 @@ You have to create an environment in which people feel safe. It doesn't matter h
 
 You can avoid this by creating rules that help structure a safe environment and help people lead by example. Writing your rules somewhere is not enough to create a welcoming and inclusive culture in a technical community—you have to live these rules.
 
-In our NethServer community,for instance, we have a simple rule and invitation for new people: "Don't be afraid to ask stupid questions. Someone else will learn from [every stupid question that you ask](https://community.nethserver.org/faq)." It's a very powerful rule, and it helps us achieve an important goal: being inclusive.
+In our NethServer community,for instance, we have a simple rule and invitation for new people: "Don't be afraid to ask stupid questions. Someone else will learn from every stupid question that you ask."[^nethserver-faq] It's a very powerful rule, and it helps us achieve an important goal: being inclusive.
 
 Here's another (related) rule: The phrase "RTFM" is banned. "Read the F@#&ing Manual" is not an answer. It's not inclusive. It actually *excludes* people, and doesn't help people feel like they can safely ask questions. Instead we point newcomers to documentation for simple solutions and give them links to specific information. Sure, that takes more time—but it is much friendlier.
 
@@ -117,7 +117,7 @@ For instance, members should be aware that suggesting a new feature is not enoug
 
 As a reminder of what it means to truly listen, I always return to this quote from Simon Sinek:
 
-When we're close to ideas, what we hear is criticism. When we're open to criticism [what we get is advice](https://twitter.com/simonsinek/status/199260848663969793).
+When we're close to ideas, what we hear is criticism. When we're open to criticism what we get is advice.[^criticism-advice]
 
 Remember that every time you need to reply to someone.
 
@@ -136,7 +136,7 @@ Here's a concrete way to practice transparency. I could give some common pieces 
 
 Traditionally, much of the development that occurs in open source space happens in code repositories and bug trackers, and those are not places that users of the software tend to hang out. This separation between developers and users means users don't really see development discussions happening, and contributors may not always get feedback or well-deserved acknowledgments from users.
 
-We use our community platform on Discourse for everything: support requests, bugs, testing processes, development discussions, community organization—[really everything](https://community.nethserver.org/categories)! We use GitHub just to keep track of issues, code changes, pull requests, and technical stuff. This means developers can help people with support questions, for example, or they can help with the community discussions. They could be pretty involved everywhere.
+We use our community platform on Discourse for everything: support requests, bugs, testing processes, development discussions, community organization—really everything![^nethserver-discourse] We use GitHub just to keep track of issues, code changes, pull requests, and technical stuff. This means developers can help people with support questions, for example, or they can help with the community discussions. They could be pretty involved everywhere.
 
 Everything is public. Everything is clear. We have a unique place to congregate as we bring everyone together.
 
@@ -164,7 +164,7 @@ Let's review six benefits.
 
 "Open innovation" occurs when a company sharing information also listens to the feedback and suggestions from outside the company. As a company, we don't just look at the crowd for ideas. We innovate in, with, and through communities.
 
-You may know that "[the best way to have a good idea is to have a lot of ideas](https://www.goodreads.com/author/quotes/52938.Linus\_Pauling)." You can't always expect to have the right idea on your own, so having different point of views on your product is essential.
+You may know that "the best way to have a good idea is to have a lot of ideas."[^pauling-ideas] You can't always expect to have the right idea on your own, so having different point of views on your product is essential.
 
 How many truly disruptive ideas can a small company (like Nethesis) create? We're all young, caucasian, and European—while in our community, we can pick up a set of inspirations from a variety of people, with different genders, backgrounds, skills, and ethnicities.
 
@@ -182,11 +182,11 @@ Second, a community can be an obvious source of product feedback—always necess
 
 Receiving early feedback is super important, because it reduces the cost of developing something that doesn't work in your target market. You can safely fail early, fail fast, and fail often.
 
-And third, communities help you generate comparisons with other projects. You can't know all the features, pros, and cons of your competitors' offerings. [The community, however, can](https://community.nethserver.org/tags/comparison). Ask your community.
+And third, communities help you generate comparisons with other projects. You can't know all the features, pros, and cons of your competitors' offerings. The community, however, can.[^nethserver-comparison] Ask your community.
 
 ### 3. Perspective
 
-Communities enable companies to [look at themselves and their products from the outside](https://community.nethserver.org/t/improve-our-communication/2569), letting them catch strengths and weaknesses, and mostly realize who their products' audiences really are.
+Communities enable companies to look at themselves and their products from the outside, letting them catch strengths and weaknesses, and mostly realize who their products' audiences really are.[^outside-perspective]
 
 Let me offer an example. When we launched the NethServer, we chose a catchy tagline for it. We were all convinced the following sentence was perfect:
 
@@ -202,11 +202,11 @@ In open source communities especially, communities can be a welcome source of pr
 
 They can, first of all, provide testing and bug reporting. In fact, if I ask my developers about the most important community benefit, they'd answer "testing and bug reporting." Definitely. But because your code is freely available to the whole world, practically anyone with a good working knowledge of it (even hobbyists and other companies) has the opportunity to play with it, tweak it, and constantly improve it (even develop additional modules, as in our case). People can do more than just report bugs; they can fix those bugs, too, if they have the time and knowledge.
 
-But the community doesn't just create code. It can also generate resources like [how-to guides](https://community.nethserver.org/c/howto), FAQs, support documents, and case studies. How much would it cost to fully translate your product in seven different languages? At NethServer, we got that for free—thanks to our community members.
+But the community doesn't just create code. It can also generate resources like how-to guides, FAQs, support documents, and case studies.[^nethserver-howto] How much would it cost to fully translate your product in seven different languages? At NethServer, we got that for free—thanks to our community members.
 
 ### 5. Marketing
 
-Communities can help your company go global. Our small Italian company, for example, wasn't prepared for a global market. The community got us prepared. For example, we needed to study and improve our English so we could read and write correctly or speak in public without looking foolish for an audience. The community gently forced us to organize [our first NethServer Conference](https://community.nethserver.org/t/nethserver-conference-in-italy-sept-29-30-2017/6404), too—only in English. A strong community can also help your organization attain the holy grail of marketers everywhere: word of mouth marketing (or [what Seth Godin calls](https://www.ted.com/talks/seth\_godin\_on\_the\_tribes\_we\_lead) "tribal marketing").
+Communities can help your company go global. Our small Italian company, for example, wasn't prepared for a global market. The community got us prepared. For example, we needed to study and improve our English so we could read and write correctly or speak in public without looking foolish for an audience. The community gently forced us to organize our first NethServer Conference, too—only in English.[^nethserver-conference] A strong community can also help your organization attain the holy grail of marketers everywhere: word of mouth marketing (or what Seth Godin calls "tribal marketing").[^godin-tribes]
 
 Communities ensure that your company's messaging travels not only from company to tribe but also "sideways," from tribe member to potential tribe member. The community will become your street team, spreading word of your organization and its projects to anyone who will listen.
 
@@ -224,7 +224,7 @@ Open leaders should never forget that working with communities is always a matte
 
 And I wouldn't be honest with you if I didn't admit that the approach has some drawbacks. Doing everything in the open means moderating, evaluating, and processing of all the data you're receiving. Supporting your members and leading the discussions definitely takes time and resources. But, if you look at what a community enables, you'll see that all this is totally worth the effort.
 
-As my friend and mentor David Spinks [keeps saying](http://cmxhub.com/article/community-business-philosophy-tactic/) over and over again, "Companies fail their communities when when they treat community as a tactic instead of making it a core part of their business philosophy." And as I've said: Communities aren't simply extensions of your marketing teams; "community" isn't [an efficient short-term strategy](https://opensource.com/open-organization/18/2/why-build-community-2). When community is a core part of your business philosophy, it can do so much more than give you short-term returns.
+As my friend and mentor David Spinks keeps saying over and over again, "Companies fail their communities when when they treat community as a tactic instead of making it a core part of their business philosophy."[^company-fail-community] And as I've said: Communities aren't simply extensions of your marketing teams; "community" isn't an efficient short-term strategy.[^community-strategy] When community is a core part of your business philosophy, it can do so much more than give you short-term returns.
 
 At Nethesis we experience that every single day. As a small company, we could never have achieved the results we have without our community.
 
@@ -236,3 +236,17 @@ And it can make you a whole lot of money.
 
 Community-driven companies will always win. Remember that.
 
+[^welcoming-post]: https://community.nethserver.org/t/weekly-welcome-to-new-members-25-jul-16/3999
+[^ambassador-group]: https://community.nethserver.org/t/nethserver-ambassadors-group/4782
+[^community-engine]: https://community.nethserver.org/t/thoughts-about-nethserver-mission-vision-and-values/4080
+[^nethserver-faq]: https://community.nethserver.org/faq
+[^criticism-advice]: https://twitter.com/simonsinek/status/199260848663969793
+[^nethserver-discourse]: https://community.nethserver.org/categories
+[^pauling-ideas]: https://www.goodreads.com/author/quotes/52938.Linus\_Pauling
+[^nethserver-comparison]: https://community.nethserver.org/tags/comparison
+[^outside-perspective]: https://community.nethserver.org/t/improve-our-communication/2569
+[^nethserver-howto]: https://community.nethserver.org/c/howto
+[^nethserver-conference]: https://community.nethserver.org/t/nethserver-conference-in-italy-sept-29-30-2017/6404
+[^godin-tribes]: https://www.ted.com/talks/seth_godin_the_tribes_we_lead
+[^company-fail-community]: http://cmxhub.com/article/community-business-philosophy-tactic/
+[^community-strategy]: https://opensource.com/open-organization/18/2/why-build-community-2
