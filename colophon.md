@@ -5,4 +5,3 @@ Typeset in [DejaVu](https://dejavu-fonts.github.io/) and [Red Hat]( https://gith
 Version 2.3
 
 Updated October 2020
-

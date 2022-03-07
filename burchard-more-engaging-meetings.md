@@ -72,4 +72,3 @@ For example, when we allow someone to tell us, "I trust that you mean well, but 
 Responding to statements like these with questions like, "What do you need from me in order to grow in your trust of me in this area?" and then following up to track your progress can also add to others' perception of your intent to do them good.
 
 Stay with it! Over time, both trust—and with it, engagement—will grow.
-

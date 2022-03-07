@@ -37,4 +37,3 @@ Engage them in building the relationships and provide the scaffolding so that th
 Constructing a culture of gratitude is a great first step in doing that.
 
 It's amazing what a simple "thank-you" can help you do.
-
