@@ -7,7 +7,7 @@ That's a relatively short sentence, but for anyone wishing to lead a group in th
 
 ### Context shapes culture
 
-Culture is something management gurus are increasingly taking more seriously. "Culture eats strategy for breakfast," I've [heard people say](http://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/). But I'm not sure that all of those folks truly understand *why* this is the case.
+Culture is something management gurus are increasingly taking more seriously. "Culture eats strategy for breakfast," I've heard people say.[^culture-strategy-breakfast] But I'm not sure that all of those folks truly understand *why* this is the case.
 
 Despite depictions in popular media, a great company culture isn't simply the result of workplace perks and ping pong tables. Culture is the result of sufficient *context*—a shared set of values, a shared purpose, and shared meanings.
 
@@ -84,3 +84,4 @@ So here's a checklist for those hoping to make a career leading an open organiza
 
 Master all this, and you're well on your way to creating the most important thing a leader can provide: the context for people to do their best work.
 
+[^culture-strategy-breakfast]: http://techcrunch.com/2014/04/12/culture-eats-strategy-for-breakfast/
