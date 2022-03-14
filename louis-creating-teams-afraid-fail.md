@@ -7,7 +7,7 @@ This four-step process can help open leaders cultivate a culture of experimentat
 
 ### Step one: Define your business goal
 
-In general, there is no shortage of verbiage for defining business goals; however, as a starting point let's use [Victor Basili's definition](http://www.cs.umd.edu/\~mvz/handouts/gqm.pdf) of a conceptual goal:  A goal is defined for an *object*, for a variety of *reasons*, with respect to various models of *quality*, from various *points of view*, relative to a particular *environment*.
+In general, there is no shortage of verbiage for defining business goals; however, as a starting point let's use Victor Basili's definition of a conceptual goal:  A goal is defined for an *object*, for a variety of *reasons*, with respect to various models of *quality*, from various *points of view*, relative to a particular *environment*.[^goal-question-metric]
 
 I prefer this definition of a goal, because by analyzing its dimensions you'll end up creating a more clear, more compelling business goal:
 
@@ -80,16 +80,16 @@ Let's take one of the questions above and form an experiment so you get the idea
 
 Let's address this question in the context of experimentation.
 
-- **Restating the question as a hypothesis.** We believe that if we cluster our products in an attractive way, rather than looking at one product per page, more purchases will occur. (I recommend using the free [Strategyzer test card](https://blog.strategyzer.com/posts/2015/3/5/validate-your-ideas-with-the-test-card) to help you organize your thoughts around creating your experiment once you have a hypothesis.)
+- **Restating the question as a hypothesis.** We believe that if we cluster our products in an attractive way, rather than looking at one product per page, more purchases will occur. (I recommend using the free Strategyzer test card to help you organize your thoughts around creating your experiment once you have a hypothesis.[^strategyzer])
 - **Know your riskiest assumptions.** One critical, risky assumption we're making is that more purchases will occur if different products are grouped in an attractive way. But what is an "attractive grouping," and to whom? Is it multi-colored blouses with neutral shoes? Is it blue shoes with white blouses? We'll need to experiment further to begin to answer this.
 
 We've now created a solid foundation for experimentation. Next, we need to create a simple test experiment that we can begin to work on today to test our critical assumptions. We could attempt several kinds of experiments, including:
 
 - **A/B testing**, a method of comparing two versions of a single variable—typically by testing a subject's response to variant A against variant B, then determining which of the two variants is more effective.
-- **Concierge testing**, or performing a service manually (just like a concierge at a hotel) with no technology involved. The idea here is to learn as much as you can via increased human interaction. A classic example of a concierge service is [the beginning of AirBnB](https://blog.adioma.com/how-airbnb-started-infographic/), where two guys rented out air mattresses in their home in San Francisco to validate what types of customers they might get with this type of service.
-- **Landing page**, a web page on which someone "lands" in response to some advertisement or social media campaign. The goal of a landing page is to convert site visitors into sales or leads. You can analyze landing page activity to determine click-through or conversion rates and gauge the success of the advertisement. One classic example of this method of experimentation comes from Buffer, which [launched with just two pages](https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it). The first was a link to "plans and pricing," and if users clicked that link, they received a message saying "oops, caught us before we were ready."
+- **Concierge testing**, or performing a service manually (just like a concierge at a hotel) with no technology involved. The idea here is to learn as much as you can via increased human interaction. A classic example of a concierge service is the beginning of AirBnB, where two guys rented out air mattresses in their home in San Francisco to validate what types of customers they might get with this type of service.[^airbnb]
+- **Landing page**, a web page on which someone "lands" in response to some advertisement or social media campaign. The goal of a landing page is to convert site visitors into sales or leads. You can analyze landing page activity to determine click-through or conversion rates and gauge the success of the advertisement. One classic example of this method of experimentation comes from Buffer, which launched with just two pages.[^buffer-landing] The first was a link to "plans and pricing," and if users clicked that link, they received a message saying "oops, caught us before we were ready."
 - **Video**, or some audio-visual artifact to explain your product. Telling a story from a user-centric point of view, including a call-to-action, is a wonderful way to test a hypothesis. Dropbox did this in 2008 creating a three-minute video posted to Digg, which expanded their waiting list from 5,000 to 75,000 literally overnight.
-- **Wizard of Oz**, a method in which it looks like you have a fully functioning product/feature, but there's really someone "behind the curtain" doing all the work. A classic example of this test is Zappos. Founder Nick Swinwarm reserved the domain name and, without building any sort of inventory system, walked down the street to the local shoe store, took photographs of shoes, and [posted them on the website](https://www.safaribooksonline.com/library/view/the-lean-entrepreneur/9781118331866/).
+- **Wizard of Oz**, a method in which it looks like you have a fully functioning product/feature, but there's really someone "behind the curtain" doing all the work. A classic example of this test is Zappos. Founder Nick Swinwarm reserved the domain name and, without building any sort of inventory system, walked down the street to the local shoe store, took photographs of shoes, and posted them on the website.[^zappos]
 
 In our example, let's say it's the first day of summer, so we decide to do a simple A/B test grouping summer shoes with summer blouses arranged by summer colors. Perhaps we create five groupings of various colors of shoes and blouses in order to begin gathering data. For example, we might run five experiments with the groupings of multi-colored blouses with neutral shoes, blue shoes with white blouses, red shoes with multi-colored blouses, green blouses with beige shoes, and yellow shoes with yellow pattern blouses.
 
@@ -106,3 +106,8 @@ For this example, the resulting test card might end up looking like this:
 
 Note that experimenting doesn't end here; it's just the beginning! Stated another way: Your team won't achieve its business goal without cultivating and embracing a culture that allows us to experiment, fail, adjust, and learn.
 
+[^goal-question-metric]: http://www.cs.umd.edu/\~mvz/handouts/gqm.pdf
+[^strategyzer]: https://blog.strategyzer.com/posts/2015/3/5/validate-your-ideas-with-the-test-card
+[^airbnb]: https://blog.adioma.com/how-airbnb-started-infographic/
+[^buffer-landing]: https://blog.bufferapp.com/idea-to-paying-customers-in-7-weeks-how-we-did-it
+[^zappos]: https://www.safaribooksonline.com/library/view/the-lean-entrepreneur/9781118331866/
