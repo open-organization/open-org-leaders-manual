@@ -5,7 +5,7 @@ In a scene from *Game of Thrones* (the third episode of the seventh season, to b
 
 "People's minds aren't made for problems that large," Tyrion says.
 
-"White walkers, the Night King, army of the dead—it's almost a relief to confront a comfortable, familiar monster like my sister." Sometimes, the best way to succeed is [not to confront the entirety of the issue](https://opensource.com/open-organization/18/7/open-innovation-lessons-game-of-thrones). The same is true about creating change in an organization. Because change is difficult, it can feel insurmountable in any organization (especially a mature or large one). Both problems and solutions can feel too big or broad for us to address. We don't often know which steps to take for a number of reasons, and we might feel a lack of support, fear of failure, or uncertainty about where to start.
+"White walkers, the Night King, army of the dead—it's almost a relief to confront a comfortable, familiar monster like my sister." Sometimes, the best way to succeed is not to confront the entirety of the issue.[^leadership-game-thrones] The same is true about creating change in an organization. Because change is difficult, it can feel insurmountable in any organization (especially a mature or large one). Both problems and solutions can feel too big or broad for us to address. We don't often know which steps to take for a number of reasons, and we might feel a lack of support, fear of failure, or uncertainty about where to start.
 
 But change doesn't *have* to be big. And if we're trying to change without the context of an urgent situation, then I would assert that change *shouldn't* be big: Change just needs to be effective, because we can build on every effective change, one at a time. Rather than try to tackle change at an intimidating scale, we must learn to spark change at a level much smaller, more modest, and more manageable—like with individual projects.
 
@@ -13,13 +13,11 @@ This chapter describes ways that we can create cultural change one project at a 
 
 ### Culture is the "how"
 
-The first thing to do is differentiate between the "how" of change and "what" of change. Business systems have similar definitions of "what"
-
-needs do be done—manage work, make profit, sell products or services, pay people, provide benefits, etc. "How" those things are done is the difference between *open* and *conventional* organizations.
+The first thing to do is differentiate between the "how" of change and "what" of change. Business systems have similar definitions of "what" needs do be done—manage work, make profit, sell products or services, pay people, provide benefits, etc. "How" those things are done is the difference between *open* and *conventional* organizations.
 
 Open organization values showcase *how* organizations operate—the principles that influence how they run to increase participation, help information flow easier, and generate innovations. Transparency, for example, describes *how* open organizations communicate (if they aim for authenticity). Inclusivity describes *how* open organizations promote participation among members. The values and beliefs are part of the foundation that makes a culture—yet they are not, themselves, culture.
 
-Culture is a set of values and beliefs *_enacted through behaviors and actions_*. We "know" what a particular culture values because of *_how_* people living in the culture do things. For example, how do people discuss things (or how *don't* they discuss things)? What is salient or available as a topic of conversation? How do they celebrate traditions, with whom, and how frequently? In the case of workplace cultures, these questions transform into ones like "How are meetings run?" and "Who's included?" and "What happens when someone expresses a dissenting opinion?"
+Culture is a set of values and beliefs *_enacted through behaviors and actions_*. We "know" what a particular culture values because of *how* people living in the culture do things. For example, how do people discuss things (or how *don't* they discuss things)? What is salient or available as a topic of conversation? How do they celebrate traditions, with whom, and how frequently? In the case of workplace cultures, these questions transform into ones like "How are meetings run?" and "Who's included?" and "What happens when someone expresses a dissenting opinion?"
 
 Our answers to those questions help us infer the values and principles that motivate observable behaviors, because the *enactment* of beliefs and values in the form of behaviors is how cultural values get instantiated. If we want to better understand a culture, we can assess social behaviors and infer values from them in order to more fully understand a culture's beliefs. We can in other words, *reverse-engineer* our understanding, starting from behavior and ending at values. However, if we want to change a culture, then we need to use *forward-engineering* to figure out ways to change those behaviors and actions in order to change beliefs (yes, I said that correctly; you change behaviors first). That means we need to look for simple but concrete ways to enact open organization values in our everyday work, and one way to do that is by focusing on specific projects.
 
@@ -67,7 +65,7 @@ This stage focuses on determining: project requirements, constraints, and assump
 
 The exciting part of this stage is the ability to discuss and compromise that it affords. Leaders shouldn't be afraid to let team discussions take them to new places. This is where "the road gets paved." *How* you enact the process (the values that will guide what you do) get sedimented here. Be inclusive and collaborative by supporting fluid role definitions. Make communication plans broad and transparent. Focus on (and encourage) interlock and the development of a broader sense of community between organizational teams is a focus and encouraged.
 
-[The Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework) is a resource you can use to help define *how* open values will manifest in the ways a project team will make decisions. It's not a prescriptive mechanism that teams must aggressively follow; it's something project managers and teams can adapt to their own situations and different types of decisions (i.e., teams might manage short-term technical decisions differently than strategic technical decisions, or might have different guidelines about decisions that involve change or risk mitigation).
+The Open Decision Framework is a resource you can use to help define *how* open values will manifest in the ways a project team will make decisions.[^odf] It's not a prescriptive mechanism that teams must aggressively follow; it's something project managers and teams can adapt to their own situations and different types of decisions (i.e., teams might manage short-term technical decisions differently than strategic technical decisions, or might have different guidelines about decisions that involve change or risk mitigation).
 
 #### Executing and controlling
 
@@ -87,3 +85,5 @@ Defining "how" is not the only task, of course: Accountability for enacting the 
 
 Starting small, aligning *how* with *what*, is a manageable way to start making those changes.
 
+[leadership-game-thrones]: https://opensource.com/open-organization/18/7/open-innovation-lessons-game-of-thrones
+[^odf]: https://opensource.com/open-organization/resources/open-decision-framework)
