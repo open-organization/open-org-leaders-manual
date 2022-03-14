@@ -7,7 +7,7 @@ And that ecosystem needs leaders. More specifically, a healthy internet needs *o
 
 *Open leaders design and build projects that empower others to collaborate within inclusive communities.*
 
-That's the core belief of the Open Leadership and Events (OLE) team at the Mozilla Foundation. In our work to spread the principles, practices, and skills of open leadership, we aim to design and build programs that empower participants to take the lead on open projects about data, [internet health](https://internethealthreport.org/), and the impact those things have on both their local and distributed communities. We serve leaders from around the world and across a wide range of open, for-profit and non-profit, and technical and non-technical projects.
+That's the core belief of the Open Leadership and Events (OLE) team at the Mozilla Foundation. In our work to spread the principles, practices, and skills of open leadership, we aim to design and build programs that empower participants to take the lead on open projects about data, internet health, and the impact those things have on both their local and distributed communities.[^internet-health-report] We serve leaders from around the world and across a wide range of open, for-profit and non-profit, and technical and non-technical projects.
 
 Participants in OLE programs come from all over the open ecosystem; they include people working on open data, open educational resources (OER), open government, open hardware, open science, open software (F/OSS), privacy and security for open practitioners, and more. For example, in 2018, Mozilla's Global Sprint (a 2-day marathon of contribution to open projects) included projects and communities like these:
 
@@ -29,7 +29,7 @@ This is the story of how we developed the MoE to help us do those things. It's a
 
 ### Project DNA
 
-Our MoE drew inspiration from the Total Engagement Index (TEI). In 2017, the advocacy team at the Mozilla Foundation developed the TEI and its dashboard in order to track how people on our mailing list interacted with emails and other campaign channels. Vojtech Sedlak and Brett Gaylor led the work at Mozilla in consultation with Harmony Labs. The MoE is also an extension of the well-known pyramid of engagement [developed by Groundwire](http://groundwire.org/labs/engagement\_101\_series/index.html).
+Our MoE drew inspiration from the Total Engagement Index (TEI). In 2017, the advocacy team at the Mozilla Foundation developed the TEI and its dashboard in order to track how people on our mailing list interacted with emails and other campaign channels. Vojtech Sedlak and Brett Gaylor led the work at Mozilla in consultation with Harmony Labs. The MoE is also an extension of the well-known pyramid of engagement developed by Groundwire.[^pyramid-engagement]
 
 The TEI grouped engagements into different bands or categories of action by depth of involvement. Each engagement in a particular band added a certain number of points to the TEI, and the advocacy team tracked the total engagement points it earned each month on an internal dashboard.
 
@@ -42,7 +42,7 @@ The TEI used these bands to group different kinds of engagements:
 
 An **Observing** engagement might have earned the team a fraction of a point, while each **Leading** or **Owning** might be worth a full point on its own. By totaling the scores of every engagement in a given month, the advocacy team could track an aggregate score representing its impact.
 
-The TEI is no longer a primary inspiration for the foundation, but it gave the OLE team a framework for examining our own work and identifying the key forms of participation and engagement we want to track across our year-long cycle of leadership trainings and events from our Open Leaders program through the Global Sprint and MozFest. Our work also draws on research from [Mozilla's Open Innovation team](https://medium.com/mozilla-open-innovation/), which explores being "open by design" and fostering community interactions and value exchanges in open projects. Other key elements of the MoE come from team members' experiences with open science initiatives, working open workshops, web literacy trainings, research done for the [Open Leadership Framework](https://mzl.la/olf), and Mozilla's work to champion [openness as an internet health issue](https://internethealthreport.org/2018/category/openness/).
+The TEI is no longer a primary inspiration for the foundation, but it gave the OLE team a framework for examining our own work and identifying the key forms of participation and engagement we want to track across our year-long cycle of leadership trainings and events from our Open Leaders program through the Global Sprint and MozFest. Our work also draws on research from Mozilla's Open Innovation team, which explores being "open by design" and fostering community interactions and value exchanges in open projects.[^mozilla-open-innovation] Other key elements of the MoE come from team members' experiences with open science initiatives, working open workshops, web literacy trainings, research done for the Open Leadership Framework,[^open-leadership-framework] and Mozilla's work to champion openness as an internet health issue.[^openness-internet-health]
 
 ### Developing a Mountain of Engagement
 
@@ -50,18 +50,16 @@ What follows is a description of the steps we took to develop our MoE.
 
 This is an intentional, mindful methodology we developed especially for smaller projects and communities that need to track engagement differently than a traditional, technical analytics team does. We hope that by following a similar process, you can identify the types of engagement that matter most to you and your participants. Once you know which engagements matter most, you can work to improve them and better scaffold pathways between them.
 
-To begin developing our MoE, first we asked: *What do we do?* We wanted to synthesize and capture a holistic view of our work taken from each team member's perspective to minimize the chance we'd overlook something important that we do, albeit infrequently or implicitly. We identified major programs like [Open Leaders](http://mzl.la/openleaders/), the [Global Sprint](https://mzl.la/global-sprint), [open science mini-grants])https://science.mozilla.org/blog/2018-mini-grant-rfp), and [MozFest](http://mzl.la/mozfest), as well as less visible pieces of work like developing curriculum, maintaining a social media presence, researching open leadership practices, and speaking at conferences.
+To begin developing our MoE, first we asked: *What do we do?* We wanted to synthesize and capture a holistic view of our work taken from each team member's perspective to minimize the chance we'd overlook something important that we do, albeit infrequently or implicitly. We identified major programs like Open Leaders,[^mozilla-open-leadership] the Global Sprint,[^mozilla-global-sprint], open science mini-grants,[^mozilla-open-science] and MozFest,[^mozilla-mozfest] as well as less visible pieces of work like developing curriculum, maintaining a social media presence, researching open leadership practices, and speaking at conferences.
 
 Then we asked: *How do people engage with us?* Looking at all we do, we listed the different types of engagements people could have with each area of work. For example, someone might be an attendee, facilitator (presenter), or wrangler (organizer) at MozFest. Someone else might follow one of our social media accounts, retweet or share a post, or clap for a blog.
 
-Next, we asked: *How might we band, group, or sort these types of engagements?* We decided to use these tiers and descriptors: 1. **Leading:** A high-touch relationship; we maintain relationships and co-branded events and trainings with alumni and allies to increase the impact, prestige, and reach of both parties' work.
+Next, we asked: *How might we band, group, or sort these types of engagements?* We decided to use these tiers and descriptors:
 
+1. **Leading:** A high-touch relationship; we maintain relationships and co-branded events and trainings with alumni and allies to increase the impact, prestige, and reach of both parties' work.
 2. **Collaborating:** A high-touch relationship; we offer professional development through our own events in return for co-creation, localization, and spread.
-
 3. **Participating:** A high-touch relationship; we offer community management and professional development through our own trainings and events in return for soliciting ideas and learning through use.
-
 4. **Endorsing:** A low-touch relationship; we share information with people who gain social capital by spreading it and networking with others who share common interests.
-
 5. **Learning:** A low-touch relationship; we gift resources like open curriculum and get back aggregate data (like downloads, registrations, and views) showing people use our resources and pay attention to us.
 
 After that, we asked: *What does our Mountain of Engagement look like?* Figure 1 shows the graphic we made to illustrate our MoE.
@@ -106,7 +104,7 @@ To summarize, here are the questions we asked ourselves while developing the MoE
 
 ### Early experiments
 
-First, a quick note on data: you should follow all the laws, policies, and rules that cover data collection, retention, and use for you and your participants. We always encourage people to adopt data [privacy policies that are as strong as Mozilla's](https://www.mozilla.org/en-US/privacy/websites/).
+First, a quick note on data: you should follow all the laws, policies, and rules that cover data collection, retention, and use for you and your participants. We always encourage people to adopt data privacy policies that are as strong as Mozilla's.[^mozilla-data-privacy]
 
 Let's take a look at some early data analysis we've done of participants' engagements with OLE programs during the first half (H1) of 2018. We want to share these observations to suggest how a MoE might help lead our team—and yours—answer new questions and develop new pathways and programs to support participants.
 
@@ -161,3 +159,13 @@ You might use your own Mountain of Engagement—and the data you collect through
 
 In pursuit of a world-class open leadership program, we let engagement lead the way. We want to empower participants to shape our work according to their needs and in support of a healthy internet for all.
 
+[^internet-health-report]: https://internethealthreport.org/
+[^pyramid-engagement]: http://groundwire.org/labs/engagement_101_series/index.html
+[^mozilla-open-innovation]: https://medium.com/mozilla-open-innovation/
+[^open-leadership-framework]: https://mzl.la/olf
+[^openness-internet-health]: https://internethealthreport.org/2018/category/openness/
+[^mozilla-open-leadership]: http://mzl.la/openleaders/
+[^mozilla-gloal-sprint]: https://mzl.la/global-sprint
+[^mozilla-open-science]: https://science.mozilla.org/blog/2018-mini-grant-rfp
+[^mozilla-mozfest]: http://mzl.la/mozfest
+[^mozilla-data-privacy]: https://www.mozilla.org/en-US/privacy/websites/
