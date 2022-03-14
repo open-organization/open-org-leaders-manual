@@ -1,13 +1,13 @@
 ## Planning for the future isn't what it used to be
 Sam Knuth
 
-In May 2017, Red Hat CEO Jim Whitehurst drew a stark conclusion in his keynote presentation at [the annual Red Hat Summit event in San Francisco](https://youtu.be/8MCbJmZQM9c): "Planning as we know it is dead." He said those same words again during a Red Hat planning session in October of 2018, when a cross-functional group of Red Hat leaders assembled to assess the current state of the business and discuss the roadmap for the coming year.
+In May 2017, Red Hat CEO Jim Whitehurst drew a stark conclusion in his keynote presentation at the annual Red Hat Summit event in San Francisco: "Planning as we know it is dead."[^whitehurst-2017-summit] He said those same words again during a Red Hat planning session in October of 2018, when a cross-functional group of Red Hat leaders assembled to assess the current state of the business and discuss the roadmap for the coming year.
 
 The technology landscape and business environment are changing so quickly, Jim argued, that trying to conduct planning activities in any kind of traditional way just isn't possible anymore. For some, this is a radical idea—and a deeply uncomfortable one. For others, the idea that we can't do traditional, long-term planning is obvious. The question (and much confusion) arises when we start thinking about *what we will do *when long term planning is no longer possible.
 
 While we can no longer plan in the traditional, comforting way of specifying a fixed roadmap and making steady, foreseeable progress towards it, we can still have a strategy with goals that help us achieve it. The big difference in approach is understanding that *the plan will evolve as we go* and we need to make real-time adjustments based on results. That means doing things in smaller chunks, getting feedback from customers and stakeholders, and modifying our approach accordingly.
 
-In this spirit, Jim suggested that we replace long-term planning with a more experimental approach, one common in open source software development: "[Try, learn, modify](https://opensource.com/open-organization/18/3/try-learn-modify)." I believe in this approach and use it frequently in my work, but it's not without its challenges.
+In this spirit, Jim suggested that we replace long-term planning with a more experimental approach, one common in open source software development: "Try, learn, modify."[^whiteurst-try-learn-modify] I believe in this approach and use it frequently in my work, but it's not without its challenges.
 
 Misconceptions about it can steer people in wrong directions. In this chapter, I'll walk through some of those misconceptions and offer some ways we might think differently about iterative approaches to achieving goals in an era when planning is dead.
 
@@ -15,7 +15,7 @@ Misconceptions about it can steer people in wrong directions. In this chapter, I
 
 The term "agile" originated with a specific meaning related to flexible but disciplined software development. Over time, other industries and professional domains have discovered the benefits of rapid iteration, radical customer-centricity, continual feedback, and cross-team collaboration.
 
-But I've seen "agile" become a kind of catch-all phrase people use without much reflection. I'm not an agile expert (and I don't pretend to be), so when I hear people using "agile" outside of its original context, I like to [ask clarifying questions about intent](http://agilemanifesto.org/). In other words, *What does being "agile" mean for your work and what are the benefits?* This might mean asking:
+But I've seen "agile" become a kind of catch-all phrase people use without much reflection. I'm not an agile expert (and I don't pretend to be), so when I hear people using "agile" outside of its original context, I like to ask clarifying questions about intent.[^agile-manifesto] In other words, *What does being "agile" mean for your work and what are the benefits?* This might mean asking:
 
 - How does your team prioritize its work?
 - How often does your team share, or "release", its work to get feedback?
@@ -47,7 +47,7 @@ Questions like these can help you understand, or tease out, the purpose behind t
 
 ### 3. "Constant change" doesn't mean "total chaos"
 
-At the heart of "try, learn, modify" is [a state of constant change](https://opensource.com/open-organization/18/10/open-leader-creativity-guide). We all know change is hard. We experience it personally and we see it every day in our work and lives. This basic human truth substantially complicates the reality we face: having to continuously adjust our work to suit the changing environment.
+At the heart of "try, learn, modify" is a state of constant change.[^open-leader-creativity] We all know change is hard. We experience it personally and we see it every day in our work and lives. This basic human truth substantially complicates the reality we face: having to continuously adjust our work to suit the changing environment.
 
 Even people who embrace "agile" can have hard a time with change. We have a reflex to resist it, question it, avoid it, and fear it. It makes us uncomfortable and insecure. Even people who purport to love and embrace change can have a hard time with it.
 
@@ -66,3 +66,7 @@ In my experience, all of these are signs of discomfort with change. Left uncheck
 
 Being open about discomfort is a great way to move past it. And if we can get past the discomfort, it can be a lot of fun.
 
+[^whitehurst-2017-summit]: https://youtu.be/8MCbJmZQM9c
+[^whitehurst-try-learn-modify]: https://opensource.com/open-organization/18/3/try-learn-modify
+[agile-manifesto]: http://agilemanifesto.org/
+[^open-leader-creativity]: https://opensource.com/open-organization/18/10/open-leader-creativity-guide
