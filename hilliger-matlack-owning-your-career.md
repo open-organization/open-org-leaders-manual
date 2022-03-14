@@ -3,7 +3,7 @@ Laura Hilliger and Allison Matlack
 
 When we were children and people asked us what we wanted to be when we got older, we tended to choose professions with fancy uniforms. We wanted to be a firefighter or a police officer or an astronaut. In our teens, career aptitude tests produced broad, unspecific results telling us to work in healthcare or education. These insights also happened at a time before digital technologies fundamentally changed our world.
 
-Today, those archetypal career goals are changing—and rapidly. As *The Economist* [reports](https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation), we live in an era when roughly half of jobs are vulnerable to automation, and "14% of jobs across 32 countries are highly vulnerable, defined as having at least a 70% chance of automation." Furthermore, "32% were slightly less imperiled, with a probability between 50% and 70%." As the magazine reports, "at current employment rates, that puts 210 million jobs at risk."
+Today, those archetypal career goals are changing—and rapidly. As *The Economist* reports, we live in an era when roughly half of jobs are vulnerable to automation, and "14% of jobs across 32 countries are highly vulnerable, defined as having at least a 70% chance of automation." Furthermore, "32% were slightly less imperiled, with a probability between 50% and 70%." As the magazine reports, "at current employment rates, that puts 210 million jobs at risk."[^economist-automation]
 
 Advances in automation and machine learning mean that technologies can perform certain *manual* functions and tasks much more efficiently than humans can. As these and other new technologies begin freeing up some of the time we've historically spent on rote, manual work, many (if not most) of our careers are veering toward "knowledge work."
 
@@ -57,7 +57,7 @@ personal development plan.
 3. Introduce everyone and give each person a few minutes to talk about
 their work (maybe you'll find similarities and connections between
 these folks).
-4. Introduce the concept of ["Yes, and . . . "](https://en.wikipedia.org/wiki/Yes%2C\_and...)
+4. Introduce the concept of "Yes, and . . . "[^yes-and]
 5. Ask each person the simple question, "What do you think my strengths
 are?" (and take notes).
 6. Thank everyone for their time!
@@ -105,3 +105,5 @@ As automation becomes more prevalent and knowledge work more ubiquitous, we have
  
 What's most important is that we take the time to reflect on what success and happiness mean to us personally, so we can confidently step into ambiguous problem spaces knowing we'll be okay. People aren't machines. They're complex beings with an immense aptitude for development and change. Creating an environment where that kind of change is supported and celebrated is critical for open leaders hoping to support knowledge workers and empower them to own their careers.
 
+[^economist-automation]: https://www.economist.com/graphic-detail/2018/04/24/a-study-finds-nearly-half-of-jobs-are-vulnerable-to-automation)
+[^yes-and]: https://en.wikipedia.org/wiki/Yes,_and...
