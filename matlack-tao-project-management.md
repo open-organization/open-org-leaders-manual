@@ -1,7 +1,7 @@
 ## The Tao of project management
 Allison Matlack
 
-The [Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html), believed [to have been written](https://en.wikipedia.org/wiki/Tao\_Te\_Ching) by the sage [Lao Tzu](http://plato.stanford.edu/entries/laozi/) in the 6th century BCE, is among the most widely translated texts in existence. It has inspired everything from religions to funny movies about dating, and authors have used it as a metaphor to explain all kinds of things (even programming).
+The Tao Te Ching, believed to have been written by the sage Lao Tzu in the 6th century BCE, is among the most widely translated texts in existence.[^lao-tzu] It has inspired everything from religions to funny movies about dating, and authors have used it as a metaphor to explain all kinds of things (even programming).
 
 This text is what immediately comes to my mind when thinking about project management in open organizations.
 
@@ -20,12 +20,11 @@ is not the eternal Name.
 
 The unnameable is the eternally real.  
 Naming is the origin  
-[of all particular things](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#1).
+of all particular things.
 
-What exactly is *project management*? And what does a project manager
-*do*?
+What exactly is *project management*? And what does a project manager *do*?
 
-As you might expect, part of being a project manager is *managing projects*: gathering requirements, managing stakeholder communication, setting priority, scheduling tasks, helping the team resolve blockers. Many institutions can teach you how to manage projects very well, and [these are good skills to have](http://www.pmi.org/certification/project-management-professional-pmp.aspx).
+As you might expect, part of being a project manager is *managing projects*: gathering requirements, managing stakeholder communication, setting priority, scheduling tasks, helping the team resolve blockers. Many institutions can teach you how to manage projects very well, and these are good skills to have.[^project-management]
 
 However, *literally* managing projects is only part of what project managers in open organizations do. These organizations require something more: *Courage*. If you're good at managing projects (or if you're good at any job, really), then you can start to feel safe in your routine. That's when you know you need to find the courage to take a risk.
 
@@ -37,7 +36,7 @@ The opening passage of the *Tao Te Ching* (which I cited above) suggests that wo
 
 We join spokes together in a wheel,  
 but it is the center hole  
-[that makes the wagon move](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#11).
+that makes the wagon move.
 
 One of the most difficult lessons I had to learn as I transitioned into project management was that not having all the answers was perfectly acceptable, even expected. That was new for me. I *like* having all the answers. But as a project manager, my role is more about *connecting* people—so the ones who *do* have the answers can collaborate efficiently.
 
@@ -59,9 +58,9 @@ you make them untrustworthy.
 The Master doesn't talk, he acts.  
 When his work is done,  
 the people say, "Amazing:  
-[we did it, all by ourselves!"](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#17)
+we did it, all by ourselves!"
 
-[Rebecca Fernandez](https://opensource.com/users/rebecca) once told me that what differentiates leaders in open organizations is not the trust people have *in them*, but the trust *they have* in other people.
+Rebecca Fernandez once told me that what differentiates leaders in open organizations is not the trust people have *in them*, but the trust *they have* in other people.[^rebecca-fernandez]
 
 Open organizations do a great job hiring smart people who are passionate about what their companies are doing. In order for them to do their best work, we have to give them what they need and then get out of their way.
 
@@ -72,7 +71,7 @@ Here, I think the above passage from the *Tao Te Ching* speaks for itself.
 The Master does nothing  
 yet he leaves nothing undone.  
 The ordinary man is always doing things,  
-[yet many more are left to be done.](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#38)
+yet many more are left to be done.
 
 Do you know the type of person who is always extremely busy? The one who seems frazzled and stressed with too many things to do?
 
@@ -95,9 +94,9 @@ he half believes it, half doubts it.
 When a foolish man hears of the Tao,  
 he laughs out loud.  
 If he didn't laugh,  
-[it wouldn't be the Tao](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#41).
+it wouldn't be the Tao.
 
-Last fall, I enrolled an MBA business ethics class with a bunch of federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with [a lot of lovely daydreams](https://opensource.com/open-organization/15/9/reflections-open-organization-starry-eyed-dreamer) about how companies should run. They told me things couldn't possibly be as they seemed. They said I should investigate further.
+Last fall, I enrolled an MBA business ethics class with a bunch of federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with a lot of lovely daydreams about how companies should run.[^starry-eyed-dreamer] They told me things couldn't possibly be as they seemed. They said I should investigate further.
 
 So I did.
 
@@ -115,13 +114,13 @@ In the practice of the Tao,
 every day something is dropped.  
 Less and less do you need to force things,  
 until finally you arrive at non-action. When nothing is done,  
-[nothing is left undone](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#48).
+nothing is left undone.
 
 The general field of project management is too focused on the latest and greatest tools. But the answer to the question of which tool you should use is always the same: "the simplest."
 
 For example, I keep my running to-do list in a text file on my desktop because it serves its purpose without unnecessary distractions. Whatever tools, processes, and procedures you introduce to a team should increase efficiency and remove obstacles, not introduce additional complexity. So instead of focusing on the tools, focus on the *problem(s)* you're using those tools to solve.
 
-My favorite part of being a project manager in an Agile world is having the freedom to throw out what doesn't work. This is related to the concept of [kaizen](https://www.kaizen.com/about-us/definition-of-kaizen.html), or "continuous improvement." Don't be afraid to try and fail. Failing is the label we've put on the process of learning what works and what doesn't. But it's the only way to improve.
+My favorite part of being a project manager in an Agile world is having the freedom to throw out what doesn't work. This is related to the concept of kaizen, or "continuous improvement."[^kaizen] Don't be afraid to try and fail. Failing is the label we've put on the process of learning what works and what doesn't. But it's the only way to improve.
 
 The best processes arise organically. As a project manager, you can help your team by supporting them and not trying to force them into anything. 
 
@@ -132,9 +131,14 @@ Others call it lofty but impractical.
 But to those who have looked inside themselves,  
 this nonsense makes perfect sense.  
 And to those who put it into practice,  
-[this loftiness has roots that go deep](http://acc6.its.brooklyn.cuny.edu/%7Ephalsall/texts/taote-v3.html\#67).
+this loftiness has roots that go deep.
 
 I believe in what open organizations are doing. What open organizations are doing for the field of management is almost as important as the actual products and services they offer. We have an opportunity to lead by example, to inspire passion and purpose in others, to create working environments that inspire and empower.
 
 I encourage you to find ways to incorporate some of these ideas into your own projects and teams to see what happens. Learn about your organization's mission and how your projects contribute to it. Have courage, expect to try some things that won't work, and don't forget to share the lessons you learn with our community so we can continue to improve.
 
+[^lao-tzu]: http://plato.stanford.edu/entries/laozi/
+[^project-management]: http://www.pmi.org/certification/project-management-professional-pmp.aspx
+[^rebecca-fernandez]: https://opensource.com/users/rebecca
+[^starry-eyed-dreamer]: https://opensource.com/open-organization/15/9/reflections-open-organization-starry-eyed-dreamer
+[^kaizen]: https://www.kaizen.com/about-us/definition-of-kaizen.html
