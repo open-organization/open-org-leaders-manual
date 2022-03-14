@@ -1,9 +1,9 @@
 ## To survive Industry 4.0, leaders should think beyond the digital
 Jen Kelchner
 
-The [2017 Red Hat Culture Survey](https://www.redhat.com/en/blog/red-hat-releases-2017-open-source-culture-survey-results) found that digital transformation is changing business inside and out. Most respondents (91%) agreed that technological developments are altering the way organizations in their industries must operate in order to succeed.
+The 2017 Red Hat Culture Survey found that digital transformation is changing business inside and out.[^2017-culture-survey] Most respondents (91%) agreed that technological developments are altering the way organizations in their industries must operate in order to succeed.
 
-That's going to require those organizations to take a hard look at the frameworks that guide their work, the values they adhere to, the mission that aligns them, and the operational processes that drive the engine of change—in other words, [their organizational cultures](https://hbr.org/2013/05/what-is-organizational-culture). It's clear that (due to the various types of transformation going on) we must address not only operational needs but also *the way we think about doing work itself*.
+That's going to require those organizations to take a hard look at the frameworks that guide their work, the values they adhere to, the mission that aligns them, and the operational processes that drive the engine of change—in other words, their organizational cultures.[^hbr-org-culture] It's clear that (due to the various types of transformation going on) we must address not only operational needs but also *the way we think about doing work itself*.
 
 Yes, our frameworks—our systems of organizational governance, our standard processes for decision-making, etc.—will need to change, because the rules of engagement have changed. But if we've only implemented new processes and frameworks and *still* haven't developed agile people and empowered them with the skills they need to adapt to change, our change efforts will continue to fail. Currently, the focus of so many change efforts has been on the *digital aspects* fueling innovation sprints—*without* addressing the key needs to be evaluated in advance of implementation and changes.
 
@@ -15,17 +15,17 @@ So in this chapter, I'll explain how those traditional rules of change managemen
 
 It's time to step *beyond the digital* in order to succeed in the rapid state of innovation we're all experiencing. It's time, that is, to change the way we think about the value of the people in our organizational ecosystems by empowering them to rapidly respond to this change, and by providing the necessary skills and tools for becoming fluent in the critical task of engaging with change.
 
-Last November, when [interviewed on CNBC's Squawk box](https://www.cnbc.com/video/2017/11/27/red-hat-ceo-projects-fail-because-of-how-companies-operate-not-technology.html), Red Hat president and CEO Jim Whitehurst said, "We found that when projects typically fail, it is usually not the technology, but has much more to do with the way companies operate." Jim went on to say that companies looking to transform the ways they work must examine their *cultures, processes, and systems*.
+Last November, when interviewed on CNBC's Squawk Box, Red Hat president and CEO Jim Whitehurst said, "We found that when projects typically fail, it is usually not the technology, but has much more to do with the way companies operate." Jim went on to say that companies looking to transform the ways they work must examine their *cultures, processes, and systems*.[^squawk-box]
 
 In response to Jim's assertion, host Joe Kernen replied: Does every company need to hire millenials? Who else knows how to operate in the current environment? It seems there needs to be a mass transformation that must happen to change the way people think to get to open source, digital, and embrace new technology.
 
-Kernen's position sounds familiar. The [2018 Deloitte Millennial Survey](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-2018-millennial-survey-report.pdf) offers the subtitle "millennials are disappointed in business and are unprepared for Industry 4.0"—before even launching into the study. The survey's finding lead to a staggering awareness that organizational and people team leaders have not taken millennial workforce development seriously. These leaders are underprepared for the speed of innovation and lack basic teaming skills.
+Kernen's position sounds familiar. The 2018 Deloitte Millennial Survey offers the subtitle "millennials are disappointed in business and are unprepared for Industry 4.0"—before even launching into the study.[^2018-millenial-survey] The survey's finding lead to a staggering awareness that organizational and people team leaders have not taken millennial workforce development seriously. These leaders are underprepared for the speed of innovation and lack basic teaming skills.
 
-According to [2017 statistics](http://www.pewresearch.org/fact-tank/2018/04/11/millennials-largest-generation-us-labor-force/):
+According to 2017 statistics:[^2018-pew-statistics]
 
 - 56 million millennials currently are in the workforce, making it the largest group.
 - Gen Z began entering the workforce in 2016 and now comprise 5% of the workforce.
-- Millennials will be [75% of our workforce by 2025](https://www.forbes.com/sites/workday/2016/05/05/workforce-2020-what-you-need-to-know-now/\#9d39c722d632). But are the millennials in your organization *really* pushing all the change typically tied to digital transformation? Or is it the case that your *entire business* hasn't really upgraded its operating procedures?
+- Millennials will be 75% of our workforce by 2025.[^forbes-millenials] But are the millennials in your organization *really* pushing all the change typically tied to digital transformation? Or is it the case that your *entire business* hasn't really upgraded its operating procedures?
 
 While millennials are the trending scapegoat, let's be honest: millennials are not who or what is prompting the need for change in your organization. And while it isn't about millennials or even digital transformation, Kernen was right about one thing: *For transformation to happen, people need to change the way they think*.
 
@@ -35,9 +35,9 @@ As the composition of *technologies* inside our organizations changes, so does t
 
 We live in an age of innovation featuring rapid cycles of change.
 
-Futurist Gerd Leonhardt estimates we will see [more change between 2015 and 2035](https://www.futuristgerd.com/future-thinker/) than in the prior 300 years of modern history. And the cycles of innovation will not be slowing down. (In fact, they will be speeding up.) To effectively understand this change, we need to step back and see the large scale impact of this age.
+Futurist Gerd Leonhardt estimates we will see more change between 2015 and 2035 than in the prior 300 years of modern history.[^change-rate] And the cycles of innovation will not be slowing down. (In fact, they will be speeding up.) To effectively understand this change, we need to step back and see the large scale impact of this age.
 
-The source of this change is far more than "digital transformation" or "emerging technologies." We are a connected and aware generation that consumes information in [mass volumes in real time through handheld devices](https://bits.blogs.nytimes.com/2009/12/09/the-american-diet-34-gigabytes-a-day/). Policy and regulation are changing. Political upheaval is occurring. New business models are emerging. New markets are appearing.
+The source of this change is far more than "digital transformation" or "emerging technologies." We are a connected and aware generation that consumes information in mass volumes in real time through handheld devices.[^nyt-data-use] Policy and regulation are changing. Political upheaval is occurring. New business models are emerging. New markets are appearing.
 
 We are part of a global marketplace and a much larger ecosystem, and as with all ecosystems, the slightest shift in a single part can cause radical changes throughout the whole.
 
@@ -51,7 +51,7 @@ business operation. Truth be told, whether your organization is open, closed, or
 
 Change readiness focuses on the *value of the people*; their contributions, and the insights they glean from working together, will address the challenges for both the disruptors and the disrupted. Since the speed of innovation and change is only increasing, we must become change-ready. We must have the skills to become rapidly responding, agile humans who can ride the wave of change rather than allowing the chaos to control us, our teams, and our business.
 
-Transformation beyond the digital requires a new approach to the way we build agile, open organizations, and it will need to start with how we empower our people to engage continuous cycles of change. With [the advent of Industry 4.0](https://www.forbes.com/sites/bernardmarr/2016/04/05/why-everyone-must-get-ready-for-4th-industrial-revolution/\#166d57113f90), we need empowered, engaged change agents more than ever.
+Transformation beyond the digital requires a new approach to the way we build agile, open organizations, and it will need to start with how we empower our people to engage continuous cycles of change. With the advent of Industry 4.0, we need empowered, engaged change agents more than ever.[^industry-40]
 
 Humans *drive* change. Humans *sustain* change. And failing to invest in people as they grapple with change could be problematic for your business.
 
@@ -63,7 +63,7 @@ Transformation needed for our workforce, business models, and organizational eco
 
 However, our approach to building applications, systems, and new technologies cannot be the same one we use to train, engage, and prepare people. Digital transformation, policy and regulation changes, new business models—all are tools, vehicles aiding the achievement of new ends or goals. But they're not driving the change.
 
-The change engine itself is fueled by people. That means [change is personal and response varies by context](https://opensource.com/open-organization/18/5/navigating-disruption-2).
+The change engine itself is fueled by people. That means change is personal and response varies by context.[^change-context]
 
 For example, you've probably worked on projects with someone who seemed resistant to the initiative. They may have asked 1,000 questions. Or they wanted to continue to reiterate, over and over, the legacy of what had already been built. As an innovator, your likely assumption was that they were being "wet blankets" to the team and initiative and thus had no place on an innovation team. (Am I right?!)
 
@@ -83,3 +83,13 @@ Everyone has the capacity to be a valuable contributor, to channel the way they 
 
 To become a truly open organization, the shift to people development with interpersonal and change competency development must be a top priority for anyone looking to sustain growth.
 
+[^2017-culture-survey]: https://www.redhat.com/en/blog/red-hat-releases-2017-open-source-culture-survey-results
+[^hbr-org-culture]: https://hbr.org/2013/05/what-is-organizational-culture
+[^squawk-box]: https://www.cnbc.com/video/2017/11/27/red-hat-ceo-projects-fail-because-of-how-companies-operate-not-technology.html
+[^2018-millenial-survey]: https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-2018-millennial-survey-report.pdf
+[^2018-pew-statistics]: http://www.pewresearch.org/fact-tank/2018/04/11/millennials-largest-generation-us-labor-force/
+[^forbes-millenials]: https://www.forbes.com/sites/workday/2016/05/05/workforce-2020-what-you-need-to-know-now/?sh=5ce328f12d63
+[^change-rate]: https://www.futuristgerd.com/future-thinker/
+[^nyt-data-use]: https://bits.blogs.nytimes.com/2009/12/09/the-american-diet-34-gigabytes-a-day/
+[^industry-40]: https://www.forbes.com/sites/bernardmarr/2016/04/05/why-everyone-must-get-ready-for-4th-industrial-revolution/\#166d57113f90
+[^change-context]: https://opensource.com/open-organization/18/5/navigating-disruption-2
