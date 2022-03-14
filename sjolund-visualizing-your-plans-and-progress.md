@@ -17,13 +17,11 @@ Over the years, I've picked up some methods for doing this simply and easily. An
 
 ### Spotify Rhythm
 
-When it comes to visualizing work and working in agile ways, many turn to Spotify. When you begin examining Spotify, you soon end up watching a video of (or one made by) [Henrik Kniberg](https://agilasverige.solidtango.com/vimeo/spotify-rhythm-hur-vi-skapar-fokus). One of these videos cover what's called the [Spotify Rhythm](https://blog.crisp.se/2016/06/08/henrikkniberg/spotify-rhythm).
+When it comes to visualizing work and working in agile ways, many turn to Spotify. When you begin examining Spotify, you soon end up watching a video of (or one made by) Henrik Kniberg.[^kniberg] One of these videos cover what's called the Spotify Rhythm.[^spotify-rhythm]
 
 The Spotify Rhythm visualizes strategy as a series of concentric circles. In the center there are the "company beliefs," produced by the CEO, which typically span across the next three to five years. The next circle in their picture represents "north star" and "two-year goals."
 
-The CEO and top management put these goals together. From those, then, Spotify makes "company bets," which are more hands-on projects or cross-organization initiatives. While using this method, "bet boards"
-
-spread to other departments, who set up their own boards or even tribe/team boards.
+The CEO and top management put these goals together. From those, then, Spotify makes "company bets," which are more hands-on projects or cross-organization initiatives. While using this method, "bet boards" spread to other departments, who set up their own boards or even tribe/team boards.
 
 The company board gets updated and synced regularly by a strategy team, which sets the focus for the coming quarter. The "lower level" boards, then, update at a faster pace (usually every six weeks), and the level below *those* update perhaps every second week (or in two week sprints).
 
@@ -56,7 +54,7 @@ A strategy-focused A3 is by nature future-oriented. It gathers the future goals 
 
 ### Servant Manager Door
 
-In his book *Toolbox for the Agile Coach: Visualization Examples*, Jimmy Janlén describes a method known as "[Servant Manager Door](https://visualizationexamples.com/)." The basic gist of this method is that a manager or leadership will have a small (kanbanesque) board displayed, usually on their door or in a common space. The board is to show what focus that manager has on impediments that need their support outside of the teams or department.
+In his book *Toolbox for the Agile Coach: Visualization Examples*, Jimmy Janlén describes a method known as "Servant Manager Door."[^visualization-examples] The basic gist of this method is that a manager or leadership will have a small (kanbanesque) board displayed, usually on their door or in a common space. The board is to show what focus that manager has on impediments that need their support outside of the teams or department.
 
 It's an easy way to show what you're currently focusing on—and being transparent about what you are currently not focusing on. A simple board with three columns is more than enough; the board only needs to include what's next, what's currently be worked on, and what has been done. And leaders can easily set this up in a simple, digital way if teams are spread across different locations.
 
@@ -72,3 +70,6 @@ Planning and working in the open always has advantages: - People and groups that
 
 Whether you select a team kanban board, a Servant Manager Door, or the company bets, if your methods are transparent and open for comment, you'll grow as a community and as an organization. You might even make some more money by focusing on the right thing to do.
 
+[^kniberg]: https://agilasverige.solidtango.com/vimeo/spotify-rhythm-hur-vi-skapar-fokus
+[^spotify-rhythm]: https://blog.crisp.se/2016/06/08/henrikkniberg/spotify-rhythm
+[^visualization-examples]: https://visualizationexamples.com/
