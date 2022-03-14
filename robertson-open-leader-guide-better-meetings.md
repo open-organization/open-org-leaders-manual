@@ -147,7 +147,7 @@ The more trust and credibility a manager has earned with a team, the quicker tea
 
 ### Delegations
 
-Delegation meetings occur when leaders need help meeting all their strategic priorities. But open leaders understand something additional: [Delegation is also a way to empower those around you](https://opensource.com/open-organization/18/7/guide-to-delegation)—to build, in other words, *a culture of shared responsibility*. Through our adaptability, delegation becomes all the more possible—indeed, almost inherently essential—for the organization to thrive and grow. And the challenge that often makes delegation difficult is *trust*. If you cannot think of anything to delegate, perhaps you believe that you cannot trust your team members to share your responsibilities.
+Delegation meetings occur when leaders need help meeting all their strategic priorities. But open leaders understand something additional: Delegation is also a way to empower those around you—to build, in other words, *a culture of shared responsibility*.[^delegation-empowerment] Through our adaptability, delegation becomes all the more possible—indeed, almost inherently essential—for the organization to thrive and grow. And the challenge that often makes delegation difficult is *trust*. If you cannot think of anything to delegate, perhaps you believe that you cannot trust your team members to share your responsibilities.
 
 When delegating work, you'll be helping team members make decisions regarding *their* priorities and understand how *they* might delegate work or stop work on a task altogether. When you approach a prioritization discussion with someone on your team, talk about the work the employee doesn't want to stop doing. You want to begin here, because you need to know what your teammate has *difficulty letting go of* as change occurs during the delegation.
 
@@ -218,3 +218,4 @@ As you're used to reading by now, record and share.
 
 Some people are going to push back against meetings, calling them "time sucks" (or worse). Ignore these assertions and prove the worth of the meeting by making it useful for the attendees. If you don't find the meeting to be a good use of time, cancel it and evaluate how you can restart the effort to reach your desired outcome. You'll find people appreciate your willingness to execute on the strategy despite challenges.
 
+[^delegation-empowerment]: https://opensource.com/open-organization/18/7/guide-to-delegation
