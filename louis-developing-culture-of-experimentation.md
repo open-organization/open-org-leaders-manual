@@ -46,5 +46,7 @@ Start today with your own new mentality that will sweep across the entire organi
 
 ### A brief example: Dollar Shave Club
 
-Dollar Shave Club's hypothesis was that men don't need fancy razors with lots of fancy features, nor do they want to spend time shopping for them. Their experiment involved creating [a one-minute video](https://www.youtube.com/watch?v=ZUG9qYTJMsI) sharing the problem and offering a solution by inviting viewers to link to a landing page where they could place an order. Within 48 hours, they knew the experiment worked: They had received [more than 12,000 orders](https://www.inc.com/magazine/201707/lindsay-blakely/how-i-did-it-michael-dubin-dollar-shave-club.html).
+Dollar Shave Club's hypothesis was that men don't need fancy razors with lots of fancy features, nor do they want to spend time shopping for them. Their experiment involved creating a one-minute video sharing the problem and offering a solution by inviting viewers to link to a landing page where they could place an order.[^shave-video] Within 48 hours, they knew the experiment worked: They had received more than 12,000 orders.[^dollar-shave]
 
+[^shave-video]: https://www.youtube.com/watch?v=ZUG9qYTJMsI
+[^dollar-shave]: https://www.inc.com/magazine/201707/lindsay-blakely/how-i-did-it-michael-dubin-dollar-shave-club.html
