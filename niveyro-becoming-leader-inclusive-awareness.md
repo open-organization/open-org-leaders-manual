@@ -43,7 +43,7 @@ Our feelings and emotions are also part of the way in which we relate.
 
 We might have an attitude of fear or anger related to what we are sharing with someone. Or we might experience a great deal of compassion towards someone or something: "I connect to what you feel. I am OK with it. Thank you for sharing." The second approach is what I'd call having an open *heart*.
 
-Every once in a while, we reach a state of communion, a place where the relationship stands connected with something larger than us—larger than "me" and larger than "you." We might let that relationship transform us, transform the conversation, and transform the motivations we bring to a project, idea, or work. Often this state and attitude reflect on who we're interacting with, and it in turn transforms them. The results of the interaction are completely [innovative and unexpected](http://www.dailygood.org/story/450/uncovering-the-blind-spot-of-leadership-c-otto-scharmer). The courage to let that communion transform us is what I'd call an open *will*.
+Every once in a while, we reach a state of communion, a place where the relationship stands connected with something larger than us—larger than "me" and larger than "you." We might let that relationship transform us, transform the conversation, and transform the motivations we bring to a project, idea, or work. Often this state and attitude reflect on who we're interacting with, and it in turn transforms them. The results of the interaction are completely innovative and unexpected.[^leadership-blind-spot] The courage to let that communion transform us is what I'd call an open *will*.
 
 These three shifts in attitude are key to developing inclusive awareness, which enables others to bring their entire selves—their thoughts, their emotions, and their intentions—into a situation. And it is the quality we need to develop in open leaders if we wish to inspire and convene the talent we need in our teams.
 
@@ -90,3 +90,4 @@ Once you start observing the way you listen (your inner condition), you might no
 
 Developed and sustained over time, this feeling becomes an *inclusive awareness* that creates a different environment for your team and enables deep collaboration and successful innovation.
 
+[leadeship-blind-spot]: http://www.dailygood.org/story/450/uncovering-the-blind-spot-of-leadership-c-otto-scharmer
