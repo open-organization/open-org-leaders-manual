@@ -11,7 +11,7 @@ When we launched Nethesis in 2003, we were just system integrators. We only used
 
 Times were different then. We couldn't use the term "open source" too loudly. People associated it with words like: "nerdy," "no value" and, worst of all, "free." Not too good for a business.
 
-On a Saturday in 2010, with pasties and espresso in hand, the Nethesis staff were discussing how to move things forward (hey, we like to eat and drink while we innovate!). In spite of the momentum working against us, we decided not to change course. In fact, we decided to push harder—to make open source, and an open way of working, a successful model for running a business.
+On a Saturday in 2010, with pastries and espresso in hand, the Nethesis staff were discussing how to move things forward (hey, we like to eat and drink while we innovate!). In spite of the momentum working against us, we decided not to change course. In fact, we decided to push harder—to make open source, and an open way of working, a successful model for running a business.
 
 Over the years, we've proven that model's potential. And one thing has been key to our success: community.
 
