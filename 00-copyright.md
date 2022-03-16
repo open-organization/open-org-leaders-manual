@@ -1,5 +1,5 @@
 # Copyright
-Copyright © 2020 Red Hat, Inc. and contributiors. All written content licensed under a [Creative Commons Attribtion-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+Copyright © 2022 Red Hat, Inc. and contributiors. All written content licensed under a [Creative Commons Attribtion-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 The following chapters were originally published (in whole or in part) in these publications:
 

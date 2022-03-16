@@ -1,5 +1,5 @@
 # About the contributors
-DeLisa Alexander is Executive Vice President and Chief People Officer at Red Hat.
+DeLisa Alexander is executive coach, board director, and former Executive Vice President and Chief People Officer at Red Hat.
 
 Bryan Behrenshausen is a community architect in the Open Source Program Office at Red Hat. He assists the Open Organization project and community, manages the Open Organization section of Opensource.com, and edits the *Open Organization* book series.
 
