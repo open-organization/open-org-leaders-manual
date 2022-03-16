@@ -1,7 +1,6 @@
 # Appendix B
 
 ## The Open Leadership Definition
-The Open Organization Ambassadors
 
 ### Preamble
 Every organization needs leaders. But a leader needn't be someone endowed with formal authority, whether by virtue of position in the organization's hierarchy or extensive tenure with the organization. Fundamentally, a leader is anyone in a group, team, department, or enterprise who performs one or more critical leadership functions, such as:
