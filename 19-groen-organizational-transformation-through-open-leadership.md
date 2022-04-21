@@ -63,7 +63,8 @@ Rocket science? No! But by the third month of our work we were already able to s
 
 As someone leading the initial phases of work like this, you'll encounter situations that call continually for your intervention. The temptation to solve these problems immediately—to step in and do the work—is great. But this is often hasty. Your *real* challenge should be to delve deeper into the underlying causes of issues each time they arise. You'll want to do this without judgment, making as few assumptions as you can, and continuing to observe. Because only when the cause is clear can you transform a situation into a lasting solution. And that is the goal: to ask, to challenge, and to explore until you really know and understand. You do this by making the personal connections, listening, and remaining suspicious of easy answers.
 
-*{Insert DISCO Model}*
+{insert figure of DiSCO model}  
+(DiSCO model adapted from Alan Seale and repurposed with permission)
 
 And this process of discovery isn't limited to the organization's people and their drives, passions, and energies. It's also about furthering your understanding of the organization's financial parameters and its administrative, operational, and commercial processes. It's about knowing where the opportunities for improvement lie in the short and longer term, and which people have the right energy to help meet those opportunities. In my case, my strongest advantage was my open attitude. It fostered the conversations we needed. And thus the core team that was to help support the transformation was born.
 
