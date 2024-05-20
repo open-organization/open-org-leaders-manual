@@ -1,4 +1,5 @@
-## Developing a culture of experimentation on your team Catherine Louis
+## Developing a culture of experimentation on your team
+Catherine Louis
 
 Most companies support the idea of incorporating innovation into their business strategies, as it can help increase market share and generate additional profits through new products or service offerings.
 
