@@ -1,7 +1,7 @@
 ## The Tao of project management
 Allison Matlack
 
-_**Editor's note:** Although this was originally written more than five years ago, it remains relevant, and the author and community decided that only superficial edits were necessary upon revision for this third edition of The Open Organization Leaders Manual._
+_**Editor's note:** Although this was originally written in 2016, it remains relevant, and the author and community decided that only superficial edits were necessary upon revision for this third edition of The Open Organization Leaders Manual._
 
 The Tao Te Ching, believed to have been written by the sage Lao Tzu in the 6th century BCE, is among the most widely translated texts in existence.[^lao-tzu] It has inspired everything from religions to funny movies about dating, and authors have used it as a metaphor to explain all kinds of things (even programming).
 
