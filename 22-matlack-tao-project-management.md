@@ -1,8 +1,6 @@
 ## The Tao of project management
 Allison Matlack
 
-_**Editor's note:** Although this was originally written in 2016, it remains relevant, and the author and community decided that only superficial edits were necessary upon revision for this third edition of The Open Organization Leaders Manual._
-
 The Tao Te Ching, believed to have been written by the sage Lao Tzu in the 6th century BCE, is among the most widely translated texts in existence.[^lao-tzu] It has inspired everything from religions to funny movies about dating, and authors have used it as a metaphor to explain all kinds of things (even programming).
 
 This text is what immediately comes to my mind when thinking about project management in open organizations.
@@ -138,6 +136,8 @@ The best processes arise organically. As a project manager, you can help your te
 I believe in what open organizations are doing. What open organizations are doing for the field of management is almost as important as the actual products and services they offer. We have an opportunity to lead by example, to inspire passion and purpose in others, to create working environments that inspire and empower.
 
 I encourage you to find ways to incorporate some of these ideas into your own projects and teams to see what happens. Learn about your organization's mission and how your projects contribute to it. Have courage, expect to try some things that won't work, and don't forget to share the lessons you learn with our community so we can continue to improve.
+
+_**Editor's note:** Although this was originally written in 2016, it remains relevant, and the author and community decided that only superficial edits were necessary upon revision for this third edition of The Open Organization Leaders Manual._
 
 [^lao-tzu]: http://plato.stanford.edu/entries/laozi/
 [^project-management]: http://www.pmi.org/certification/project-management-professional-pmp.aspx
