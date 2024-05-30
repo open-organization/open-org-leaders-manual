@@ -13,20 +13,20 @@ And to explain, I'll return to the *Tao Te Ching*.
 
 ### Don't let your job title define you
 
-The tao that can be told  
-is not the eternal Tao  
-The name that can be named  
-is not the eternal Name.
-
-The unnameable is the eternally real.  
-Naming is the origin  
-of all particular things.
+> The tao that can be told  
+> is not the eternal Tao  
+> The name that can be named  
+> is not the eternal Name.
+> 
+> The unnameable is the eternally real.  
+> Naming is the origin  
+> of all particular things.
 
 What exactly is *project management*? And what does a project manager *do*?
 
 As you might expect, part of being a project manager is *managing projects*: gathering requirements, managing stakeholder communication, setting priority, scheduling tasks, helping the team resolve blockers. Many institutions can teach you how to manage projects very well, and these are good skills to have.[^project-management]
 
-However, *literally* managing projects is only part of what project managers in open organizations do. These organizations require something more: *Courage*. If you're good at managing projects (or if you're good at any job, really), then you can start to feel safe in your routine. That's when you know you need to find the courage to take a risk.
+However, *literally* managing projects is only part of what project managers in open organizations do. These organizations require something more: *courage*. If you're good at managing projects (or if you're good at any job, really), then you can start to feel safe in your routine. That's when you know you need to find the courage to take a risk.
 
 Do you have the courage to step outside of your comfort zone? The courage to ask important people challenging questions that might raise eyebrows, but that might also uncover a better way forward? The courage to identify the next thing that needs to be done—then the courage to go and do it? The courage to call out communication gaps and take initiative to fix them? The courage to try things? The courage to fail?
 
@@ -34,9 +34,9 @@ The opening passage of the *Tao Te Ching* (which I cited above) suggests that wo
 
 ### Connect the right people
 
-We join spokes together in a wheel,  
-but it is the center hole  
-that makes the wagon move.
+> We join spokes together in a wheel,  
+> but it is the center hole  
+> that makes the wagon move.
 
 One of the most difficult lessons I had to learn as I transitioned into project management was that not having all the answers was perfectly acceptable, even expected. That was new for me. I *like* having all the answers. But as a project manager, my role is more about *connecting* people—so the ones who *do* have the answers can collaborate efficiently.
 
@@ -46,21 +46,21 @@ Picture a wagon wheel. Without the stability and direction provided by the cente
 
 ### Trust your team
 
-When the Master governs, the people  
-are hardly aware that he exists.  
-Next best is a leader who is loved.  
-Next, one who is feared.  
-The worst is one who is despised.
+> When the Master governs, the people  
+> are hardly aware that he exists.  
+> Next best is a leader who is loved.  
+> Next, one who is feared.  
+> The worst is one who is despised.
+> 
+> If you don't trust the people,  
+> you make them untrustworthy.
+> 
+> The Master doesn't talk, he acts.  
+> When his work is done,  
+> the people say, "Amazing:  
+> we did it, all by ourselves!"
 
-If you don't trust the people,  
-you make them untrustworthy.
-
-The Master doesn't talk, he acts.  
-When his work is done,  
-the people say, "Amazing:  
-we did it, all by ourselves!"
-
-Rebecca Fernandez once told me that what differentiates leaders in open organizations is not the trust people have *in them*, but the trust *they have* in other people.[^rebecca-fernandez]
+One of my colleagues, Rebecca Fernandez, once told me that what differentiates leaders in open organizations is not the trust people have *in them*, but the trust *they have* in other people.[^rebecca-fernandez]
 
 Open organizations do a great job hiring smart people who are passionate about what their companies are doing. In order for them to do their best work, we have to give them what they need and then get out of their way.
 
@@ -68,10 +68,10 @@ Here, I think the above passage from the *Tao Te Ching* speaks for itself.
 
 ### Be effortless
 
-The Master does nothing  
-yet he leaves nothing undone.  
-The ordinary man is always doing things,  
-yet many more are left to be done.
+> The Master does nothing  
+> yet he leaves nothing undone.  
+> The ordinary man is always doing things,  
+> yet many more are left to be done.
 
 Do you know the type of person who is always extremely busy? The one who seems frazzled and stressed with too many things to do?
 
@@ -87,16 +87,16 @@ What this passage of the *Tao Te Ching* says to me is that the person who's alwa
 
 ### Be a culture coach
 
-When a superior man hears of the Tao,  
-he immediately begins to embody it.  
-When an average man hears of the Tao,  
-he half believes it, half doubts it.  
-When a foolish man hears of the Tao,  
-he laughs out loud.  
-If he didn't laugh,  
-it wouldn't be the Tao.
+> When a superior man hears of the Tao,  
+> he immediately begins to embody it.  
+> When an average man hears of the Tao,  
+> he half believes it, half doubts it.  
+> When a foolish man hears of the Tao,  
+> he laughs out loud.  
+> If he didn't laugh,  
+> it wouldn't be the Tao.
 
-Last fall, I enrolled an MBA business ethics class with a bunch of federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with a lot of lovely daydreams about how companies should run.[^starry-eyed-dreamer] They told me things couldn't possibly be as they seemed. They said I should investigate further.
+I once attended an MBA business ethics class with a bunch of US federal employees. When I started describing my company's culture, values, and ethics framework, I got the direct impression that both my classmates and my professor thought I was a naive young lady with a lot of lovely daydreams about how companies should run.[^starry-eyed-dreamer] They told me things couldn't possibly be as they seemed. They said I should investigate further.
 
 So I did.
 
@@ -108,13 +108,13 @@ As a project manager, you might think that your job has nothing to do with culti
 
 ### Kaizen
 
-In pursuit of knowledge,  
-every day something is added.  
-In the practice of the Tao,  
-every day something is dropped.  
-Less and less do you need to force things,  
-until finally you arrive at non-action. When nothing is done,  
-nothing is left undone.
+> In pursuit of knowledge,  
+> every day something is added.  
+> In the practice of the Tao,  
+> every day something is dropped.  
+> Less and less do you need to force things,  
+> until finally you arrive at non-action. When nothing is done,  
+> nothing is left undone.
 
 The general field of project management is too focused on the latest and greatest tools. But the answer to the question of which tool you should use is always the same: "the simplest."
 
@@ -126,16 +126,18 @@ The best processes arise organically. As a project manager, you can help your te
 
 ### Practice
 
-Some say that my teaching is nonsense.  
-Others call it lofty but impractical.  
-But to those who have looked inside themselves,  
-this nonsense makes perfect sense.  
-And to those who put it into practice,  
-this loftiness has roots that go deep.
+> Some say that my teaching is nonsense.  
+> Others call it lofty but impractical.  
+> But to those who have looked inside themselves,  
+> this nonsense makes perfect sense.  
+> And to those who put it into practice,  
+> this loftiness has roots that go deep.
 
 I believe in what open organizations are doing. What open organizations are doing for the field of management is almost as important as the actual products and services they offer. We have an opportunity to lead by example, to inspire passion and purpose in others, to create working environments that inspire and empower.
 
 I encourage you to find ways to incorporate some of these ideas into your own projects and teams to see what happens. Learn about your organization's mission and how your projects contribute to it. Have courage, expect to try some things that won't work, and don't forget to share the lessons you learn with our community so we can continue to improve.
+
+_**Editor's note:** Although this was originally written in 2016, it remains relevant, and the author and community decided that only superficial edits were necessary upon revision for this third edition of The Open Organization Leaders Manual._
 
 [^lao-tzu]: http://plato.stanford.edu/entries/laozi/
 [^project-management]: http://www.pmi.org/certification/project-management-professional-pmp.aspx
