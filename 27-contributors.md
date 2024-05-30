@@ -27,7 +27,7 @@ Sam Knuth leads the Customer Content Services team at Red Hat, a team that produ
 
 Catherine Louis is a Certified Scrum Trainer, independent Agile coach, founder of CLL-Group.com, PoDojo.com, and founding member of Tech Ladies®.
 
-Allison Matlack is a Returned Peace Corps Volunteer turned Principal Product Communications Strategist at Red Hat who is known for her enthusiastic speaking style and passion for helping leaders inspire their teams. She's an experienced Agile practitioner and coach of software engineering teams in various stages of maturity, as well as a communications specialist with a change-management style steeped in the tradition of the Open Decision Framework.
+Allison Matlack is a Returned Peace Corps Volunteer turned collaborative leader with a proven track record of enhancing organizational health and fostering inclusive cultures. Described by peers as “the powerhouse and heart of an organization,” Allison is a vocal advocate for open decision-making, transparent communications, and empowerment. She has served as an Open Organization Ambassador since 2016 and loves finding new ways to put the collaborative principles of open source software development into practice in different contexts.
 
 Ron McFarland has been working in Japan for 40 years, and he's spent more than 30 of them in international sales, sales management training, and expanding sales worldwide. He's worked in or been to more than 80 countries. Over the past 14 years, Ron has established distributors in the United States and throughout Europe for a Tokyo-headquartered, Japanese hardware cutting tool manufacturer.
 
