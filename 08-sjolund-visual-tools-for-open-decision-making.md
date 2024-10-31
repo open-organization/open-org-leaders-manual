@@ -1,5 +1,5 @@
 ## Visual tools for open decision making
-Jimmy Sjolund
+Jimmy Sjölund
 
 In many organizations, strategic planning is the responsibility of only a few individuals.
 A management team might meet in a secluded offsite location, develop a corporate strategy or a set of team goals, then reveal them to the rest of the company.
@@ -28,7 +28,6 @@ Over the years, I have acquired some simple and effective methods for achieving 
 And in this chapter, I'll share them with you.
 
 ### The Open Decision Framework: Transparent and inclusive decision making
-
 The Open Decision Framework[^open-decision-framework] is a tool for making collective decisions in a transparent and inclusive way.
 It is useful for open leaders who seek to build open organizations or communities.
 Open leaders can integrate steps from the Open Decision Framework into their plans or decision-making processes.
@@ -42,13 +41,10 @@ In short, it's a practical method for making business decisions that include the
 The framework demonstrates best practices and offers guidance on balancing transparency with the need for confidentiality.
 
 #### What is an open decision?
-
 Open decisions share three essential characteristics:
 
 - Transparent: Transparency is key to building trust and ensuring informed participation. People need to be aware of existing problems and ongoing decisions, know who is responsible for making decisions, understand the requirements and constraints, and be clear on how they can contribute.
-
 - Inclusive: Inclusivity is equally important. Those affected by decisions should have a voice in the decision-making process. Actively seeking diverse perspectives ensures more comprehensive and effective outcomes.
-
 - Customer-centric: Consider the people involved or affected as customers with competing needs and priorities. When a decision benefits some but may disappoint others, focus on managing relationships and expectations while maintaining productivity.
 
 While potentially slower *initially*, open decisions ultimately result in stronger buy-in, faster adoption, and better outcomes.
@@ -83,9 +79,7 @@ When organizational stakeholders see their values and purposes reflected in the 
 So when they are facilitating open decisions or planning in the open, open leaders should ensure that these values and purposes are reflected in the work.
 This communal approach not only multiplies productivity but also builds trust in the decision-making process, regardless of the final outcome.
 
-
 ### A3 Reports: A lean tool for visual problem-solving
-
 A3 reports are the result of a work method or problem solving approach that emerged from Toyota and the Toyota Production System[^toyota-production-system], which one could say ignited the worldwide "lean" movement.
 Toyota uses A3 reports for many purposes—from status reports to proposal and policy changes to (most notably) problem solving.
 The name of this method derives from the paper size it once required: the largest possible size you could still fit into a fax machine (today, as less is more, Toyota also promotes A4 reports!).
@@ -154,7 +148,6 @@ While the concept originated in manufacturing, the principles behind the Obeya R
 From software development to healthcare, any organization can benefit from creating a dedicated space, physical or virtual, that embodies the principles of openness, transparency, and continuous improvement.
 
 ### Open, always
-
 Planning and working in the open always has advantages:
 
 - People and groups that come together with a shared purpose are extremely powerful. With clear priorities communicated everywhere and shared with everyone, you'll get a much better understanding of how your work contributes to the organizational big picture. This improves your autonomy as you can steer your own actions toward the common goal.
