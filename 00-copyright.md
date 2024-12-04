@@ -19,7 +19,7 @@ Jim Whitehurst's "What it means to be an open leader" was originally published a
 
 Jen Kelchner's "To survive Industry 4.0, leaders should think beyond the digital" was originally published at https://opensource.com/open-organization/18/5/transformation-beyond-digital and https://opensource.com/open-organization/18/7/transformation-beyond-digital-2.
 
-Ron McFarland's "When empowering employee decision-making, intent is everything" was originally published at https://opensource.com/open-organization/16/4/when-empowering-employee-decision-making-intent-everything.
+Ron McFarland's "Improving collaborative decisions by reducing noise" was originally published on Coaching Buttons at https://coachingbuttons.com/2023/12/18/noise and https://coachingbuttons.com/2023/12/25/reducenoise.
 
 Allison Matlack's "The Tao of project management" was originally published at https://opensource.com/open-organization/16/2/tao-project-management.
 
